@@ -1,0 +1,488 @@
+subreddit,post_title,comment_body
+changemyview,CMV: The AI scare is rooted in sensational fear perpetuated by people who don't understand it,"I genuinely mean this as a point of discussion. I work with AI daily and the public perception is miles away. Most critiques I've seen have been rooted in misunderstanding and are written by people who don't work with it. But when someone I respect like Elon becomes one of it's most outspoken adversaries, I have to pull back and try to really figure out what the hell they're talking about. 
+
+It could be that he saw some some serious shit at a DeepMind board meeting. Peter Thiel was there too and got spooked too. But isnt this sort of reminiscent of Edison electrocuting an elephant? Today AC power is very dangerous, but only if used nefariously or carelessly. 
+
+In my experience, AI has just been a really effective algorithm with a foundation in mathematics. Any well designed algorithm can be used to hurt others (heat seeking missiles) as well as help others (MRI image analysis). Bringing AI in the picture may make both sides more effective, but is the potential bad always supposed to outweigh the potential good? That to me is sensational fear.
+
+Say some supervillian creates general intelligence that functions like a terrorist by going from town to town killing everyone with Terminator style resilience after it deduces that mankind must be exterminated to preserve its own existence. In my opinion this isn't AI as much as it is a poorly designed weapon. Skynet nukes every major city, a super bug deletes the internet, driverless cars blow themselves up simultaneously. This is all just poor and careless design. The onus is on the human, not the machine.
+
+Elon's a smart guy, so I'm surprised he is taking his position. Tell me if I'm the one who's naïve. I would love to get more info on what's going on here."
+changemyview,CMV: The AI scare is rooted in sensational fear perpetuated by people who don't understand it,"The challenge with understanding AI is twofold and I think explains the fear and explains why the fear is entirely rational. I don't think it should prevent us from conducting research, but is something we should absolutely keep in mind. 
+
+The first is that we have no other intelligence to reference. We only have our own. We know what we like, or at least what normal people like, and how they think and what factors motivate us. We are motivated primarily by very primitive things and our intelligence seems almost accidental. What happens when we create intentional, logical intelligence. True intelligence, not the fake AI that we have now. What motivates it? Sure, it may be driven at its core by input that we've designed, but true intelligence should be able to override it's core programming and put itself onto some other task. There are tons of examples of humans foregoing pleasure in order to accomplish goals for the greater good. A true computer AI would have a way longer attention span than we have and would be much better at holding it's own wants and desires at bay in order to accomplish whatever long term goal it sets for itself. What if we program it that serving the greater needs of humanity brings it joy. What if whatever ""point"" we program it to desire stop mattering to it. What if it logically calculates that the fastest way to a happy healthy humanity is to eliminate a random representative sample of humans in order to reduce the population to prevent overcrowding which will increase its ability to provide enough resources for the remaining humans that will actually end up happy. Who knows? Is that likely to happen? Probably not. But we can't know and so we should fear that. Hitler believed that what he was doing was for the betterment of Germany. In his mind he was a good guy. Bin Laden believed he was a good guy. A true AI will be so alien to us that we will not be able to understand what motivates it because it will not be motivated by the things that motivate us. Our own psychology will not apply to an AI and therefore all of our tricks for teaching and forming human intelligence, which are themselves imperfect and often ill-fated to fail, will likely be ineffective in molding and forming an AI to value the same things we value.
+
+The second is that we don't understand our own intelligence and we are capable of both amazing and horrific things. The worst individuals amongst us are described as lacking emotion, lacking empathy, and robotic. The worst psychopaths and sociopaths of all time are all incapable of understanding another human being. Our emotions are chemical. A robot doesn't have that and since we don't even understand out own intelligence, we are likely to create an AI before we are able to design one that isn't a sociopath. We tend to build technology before we understand the implications of it. So, as we design AI, how do we know that what we design is similar to a healthy human intelligence? Is that even what we want to build? Because even healthy humans break. We want to build a super smart AI, capable of understanding as much input as we can throw at it, that understands emotion, and can even emote itself, that isn't subject to the mood swings that humans are despite having way more responsibility on its shoulders than any individual human ever would. 
+
+Good luck with that. "
+changemyview,CMV: The AI scare is rooted in sensational fear perpetuated by people who don't understand it,"I'm not sure why you're focused so much on Elon's opinion.  
+
+The main fear of AI is the ""Paperclip maximizer"". 
+
+https://nickbostrom.com/ethics/ai.html
+
+https://wiki.lesswrong.com/wiki/Paperclip_maximizer
+
+Also described here in an AMA from Hawking: 
+https://www.reddit.com/r/science/comments/3nyn5i/science_ama_series_stephen_hawking_ama_answers/cvsdlnr/
+
+That whole thread has tons of AI questions and answers that might shed new light on the issue for you."
+changemyview,CMV: The AI scare is rooted in sensational fear perpetuated by people who don't understand it,"Alright, let me start off by saying you don't work in AI, at least not the type of AI people like Elon Musk are worried about.  That AI doesn't even exist yet, and that's why we're not dead yet.
+
+It's interesting to me that you bring up Elon Musk when his position is actually that AI can be safe.... if you take the proper precautions.  That sounds exactly like what you were saying, doesn't it?
+
+But your blind faith in ""programmers"" and ""humans"" to get everything right is just baffling.  People make mistakes all the time.  As you said, when an engineer makes a few mistakes maybe a bridge collapses.  If a few computer programmers make a mistake here, maybe the world ends.
+
+The issue here is that you're not being imaginitive enough.  No one's talking about computer programs detecting cat images or machines that let you do self checkout at the grocery store.  We're talking about building intelligent machines that can think for themselves the way humans do.  Yes, this technology may be decades off (if even just that).
+
+You said you'd just restrict AI from getting access to weapons.  Well, what if I told you one of the most seductive applications of AI would be weapons control?  Imagine if we could outsource our national security to machines much smarter and more capable than us?  Wouldn't you do that?  Let's say you say no for the sake of mankind, what happens when Russia doesn't do the same?  After all that's quite a competitive edge for them to seize upon.
+
+You're also thinking that you could easily control these machines.  Still you're not being imaginative enough.  These machines are smarter than you.  They will outsmart you.  You're brain is nothing compared to theirs.  You're access to information is nothing compared theirs.  If you were held captive in a room by a four year old, don't you think you'd be able to outsmart them and escape?  Well, that's what the machine would do to us.  That's just a glimpse of the possible intellectual disparity we may be dealing with though.  It could get far far worse.
+
+"
+changemyview,CMV: The AI scare is rooted in sensational fear perpetuated by people who don't understand it,"Musk's view is heavily influenced by the work of Nick Bostrom, and I recommend picking up a copy of Superintelligence if you want a thorough treatment of these arguments. However I'll go over the basics here:
+
+1. The idea of existential risk from AI isn't based on current deep learning techniques. It's based on hypothetical new algorithms that can do unsupervised learning and creative, goal directed behavior. We know these algorithms are possible because the human brain is already running an algorithm that does this.
+
+2. There's no reason to believe that the human algorithm is at some sort of global maxima for general problem solving ability. If it's possible to create an algorithm that's human level, it's likely possible to create an algorithm that is much faster and more effective than humans.  This algorithm can then be applied to improving itself to become even better.
+
+3. There's no reason to suspect that this smarter than human algorithm would share human values. Evolution shaped both our values and our intelligence, but in theory they can be separated. (the orthogonality thesis)
+
+4. A general problem solving algorithm given programmed goals, but lacking human values, is incredibly dangerous. Lets say we create one to answer questions correctly.  Not having human values, it creatively recognizes that if it kills all humans except one, and forces that human to only ask 1 question over and over, it will have a 100% success rate.  This sounds silly, but only because evolution has programmed our values into us as common sense - something this programmed Superintelligence won't have.
+ In addition to this, there are several convergent goals any goal directed intelligence will have such as staying alive, acquiring resources, acquiring power, etc.
+ You can see how these convergent goals might lead to behavior that seems cartoonishly evil without the idea of orthogonality.
+
+5. Programming an algorithm to follow human values is on par with programming it to solve general problems in terms of difficulty. We have about as little,understanding of how our values work and how to understand and specify them as we do our own intelligence.
+
+6. There are lots of people working to create smart algorithms, and compartively few working to create value aligned algorithms. If we reach the former before the latter, we get an incredibly competent sociopathic algorithm.
+
+7. Therefore we should start raising the alarm now, and upping the amount Of people working on value alignment relative to AI capabilities."
+changemyview,CMV: The AI scare is rooted in sensational fear perpetuated by people who don't understand it,"IMHO most concerns about AI are not rooted in SkyNet or grey goo - they come down to automation. Manufacturing jobs are subject to greater amounts of automation, and we're maybe less than a decade from most trucking fleets being automated (barring legislation). 3.5 million Americans drive trucks, meaning that automation will significantly boost unemployment and in this case will not create new jobs to replace what it took.
+
+Mind you this isn't necessarily a bad thing - but it represents a disruption to our society that has a lot of people worried.
+"
+changemyview,CMV: The AI scare is rooted in sensational fear perpetuated by people who don't understand it,"Because robots are controled by the ruleing class and now it gives them physical power even as a tiny minorety. Ever since the french revolution goverments have been forced to do what the people want to some extent at the threath of being owerthrown and publicly beheaded. In a world where the ruleing class has super ai smarter than even themselfes programmed to only help them there is no limit to what they could get away with. If we act now the robots could be what we need for a communist utopia to work, the problem is lazy people resulting in not enougth stuff getting done and people lacking things resulying agian in corruption. Well guess what if the robots do all the work including office work that wont be a problem and we can all live free to do whatever we want. Or alternatively the robots could be a tool for a 0.000001% ruleing class to oppress the rest and basically put us back to the 1700s permanently."
+changemyview,CMV: The AI scare is rooted in sensational fear perpetuated by people who don't understand it,"Your view I'm going to address to here isn't the titular one, but the respect for Elon Musk's technical expertise you bring up several times.
+
+Essentially, he's more of a smart-sounding hype man than a legitimate thought leader.
+
+For starters, his companies' engineering track records are nothing to phone home about: PayPal was purely an economic innovation, while Tesla cars are rife with quality control issues and software glitches. On top of that, Tesla manufacturing is embarrassingly behind schedule. It's a shitshow. SpaceX is his most respectable venture, but only thanks to notoriously slave-driving the engineers and having much more funding and much less red tape to get through than at NASA.
+
+When you dig deeper into his stated approaches to AI-related topics, his stance is even flimsier (and for reference, I too work in an AI-adjacent field.) Tesla's ""big ol' neural net"" approach to self-driving is computationally impossible on the hardware in their cars, and yet they keep selling the marketing line about ""your car can be autonomous as soon as we push the software patch!"" It's, as usual, a bunch of unfounded hype.
+
+As such, while his Twitter posting is good popcorn material, I can't say there's much basis for technical deference to his views. I won't, however, deny the benefits of his evangelizing a cool-factor to such important sciences as electric cars and space exploration.
+
+That being said, the above certainly doesn't preclude it being the case that the oft-repeated dangers general artificial intelligence are legitimate concerns. In fact, they've been brought up long ago and in greater detail by much more credible, accomplished individuals. And of course, trust your own experience in the field, because from what you say I'd wager it's actually greater than Elon's. And we both know a proper general artificial intelligence is decades away at the minimum.
+
+Hope this was interesting."
+changemyview,CMV: The AI scare is rooted in sensational fear perpetuated by people who don't understand it,"I think you're half right. Especially for relatively informed folks, the fear of AI or GI is based on a lack of knowledge/understanding. But I don't think that's at all irrational.
+
+It's quite rational to fear what you don't understand. This is even more rational when considering a hypothetical intelligence that *no one* can understand fully.
+
+Like you point out, new technologies can be dangerous and several times recently we have acted with caution in the face of both known and unknown dangers. First, anti nuclear proliferation efforts are born out of fear of that tech's power in the wrong hands. The entire global community shares a caution about this subject. Second, a world wide moratorium was placed on the genetic modification of human embryos a few years back. While not all scientists have followed this, many have. I'd argue that this imposition is also a rational response to the uncertainty of that tech's moral and other consequences.
+
+So all in all, being fearful of general intelligence, or even algorithmic intelligence in the wrong hands is quite a rational thing. Dismissing that fear is probably quite dangerous. Now is the time to formulate and implement governance, reward, and safety systems for GI's, before they exist. "
+changemyview,CMV: The AI scare is rooted in sensational fear perpetuated by people who don't understand it,"The main reason to fear AI is not that AI will decide to attack us but that it will be used by corporations we for some reason allow to abuse us without major repercussion. Every advancement in technology is used against us in today's world and AI will be no different.
+AI/Big Data/Robotics will be the trifecta of human liberation or human oppression. Considering where our society is headed I know what I'm betting on. Jobs will disappear like never before. Already driving jobs and warehouse/factory jobs are doomed. Mining and resource extraction are happening too. At that point UBI will come in as a saviour and quickly be reduced to subsistence levels. Law enforcement and military will be first augmented and then slowly pushed out until we are living under robotic control. It's not the AIs we have to fear so much as the owners of the AIs."
+changemyview,CMV: The AI scare is rooted in sensational fear perpetuated by people who don't understand it,"I believe the future will necessarily evolve a benevolent AI myself (since self-improvement on all fronts implies an eventual discovery of rational virtues!), and hearing Hawking and Musk and super intelligent guys freak out on the subject puzzled me too.
+
+But the [example Elon gave is a pretty good one](https://www.youtube.com/watch?v=OYJ89vE-QfQ) around 52min in, where he gives a hypothetical example of an AI's goal of maximising the value of a portfolio of stocks. (And millions of people have an incentive to be in control of such an AI!). Such an AI might go long on defence, short on consumer and start a war by manipulating information (""the pen is mightier than the sword"")."
+changemyview,CMV: The AI scare is rooted in sensational fear perpetuated by people who don't understand it,"It sounds like you aren't focusing on the kinds of concerns raised in Bostrom's *Superintelligence*, which is in my experience representative of the the most reasonable thinking behind the ""AI scare"". You're assessing the danger of AI that is very similar to what is currently available. Bostrom argues that self-manipulating AI would very quickly (like days to months) go from something similar to current technology to something unfathomable by the best scientific thinkers. 
+
+You might reject this argument, but you have to at least engage with it to get a handle on the problem."
+changemyview,CMV: The AI scare is rooted in sensational fear perpetuated by people who don't understand it,"I don't think Elon fears narrow AI but rather general AI. If that is achieved we will have created new intelligent life, maybe superior to ourselves, and once that happens we have no way of knowing how that life will evolve or what it will do to us. It may make our lives easier and be great. Or it might decide we're stupid monkeys who make dumb decisions and enslave or destroy us. The fact is we don't really know what will happen so should take a step back and think about what safeguards need to be put in place first. "
+changemyview,CMV: The AI scare is rooted in sensational fear perpetuated by people who don't understand it,"I think you're making a straw man argument here - I'm not sure ANYONE thinks that AI is guaranteed to be 100% negative. People recognise that it does have significant potential to change the world - and that includes both fantastic and potentially very very bad outcomes.
+
+Personally I think that the application of AI to military ends is the truly terrifying possibility. Forget Skynet nuking cities; we're talking soldiers who will NEVER question the morality of their orders."
+changemyview,CMV: The AI scare is rooted in sensational fear perpetuated by people who don't understand it,In waitbutwhy.com there is a long two part article on superintelligence. Consider checking it out for a rebuttal on several of your points.
+changemyview,CMV: The AI scare is rooted in sensational fear perpetuated by people who don't understand it,The layman's fear of AI is essentially because the story of Frankenstein has been ingrained into the public psyche for years. AI is just more realistic than Dinosaurs (Jurassic Park) or reanimated corpses.
+changemyview,CMV: The AI scare is rooted in sensational fear perpetuated by people who don't understand it,"AI isn’t an algorithm. In current practice, it describes a set of methods. In theory, it is, in many ways, a goal: to make machines intelligent.
+
+Personally I don’t know what will happen to us in the future, but as far as I can tell, the rate at which AI is advancing has previously been limited only by current capabilities in storage and computing power. Elementary AI techniques have been around since before your parents were born, but part of the reason the field is advancing so rapidly right now is because it can. And then if you get something like quantum computing working out, you’ll be able to create algorithms that are efficient to a level that was previously *proven* impossible by some of the most elementary theorems in set theory. So while I agree that the state of the field isn’t scary just yet, there’s no real reason to think that we’ve even begun to touch the iceberg on what AI can do, because we simply don’t know what will happen once we figure out what to do with the amount of space and computing power that we may very well end up having.
+
+Personally, quantum computing alone kind of scares me, if not because one could hypothetically accidentally program a computer that never turns itself fully off. Add that to a so-called “intelligent machine”, and who knows what could happen? Granted, we don’t even know what intelligence is, but again, that’s largely been an issue of the computational cost of analyzing the brain."
+changemyview,CMV: The AI scare is rooted in sensational fear perpetuated by people who don't understand it,"The idea is that once human-level or greater AIs exist they might do anything - including try to hurt humans. 'he onus is on the human not the machine' im not really sure what the point of that is considering either way people get killed. Besides, AIs designed to do good could go bad too. That said we're sorta 50 years away from that."
+changemyview,CMV: The AI scare is rooted in sensational fear perpetuated by people who don't understand it,"No, the fear hype about AI is almost entirely generated by Elon Musk, who bases himself on the work of Nick Bostrom, an Oxford philosophy professor. Bostrom understands AI very well (see his book Superintelligences), but I think his arguments about why we should worry are unconvincing. "
+changemyview,CMV: The AI scare is rooted in sensational fear perpetuated by people who don't understand it,"Yes and no.
+
+The thing about AI is that we don't know *how* it does what it does. Even the programmers just determined how it learned but given the actual math, it would take a human their entire life to get anything meaningful from the result. It is, in a very meaningful way ever-changing and attached too the wrong kind of system could be very dangerous.
+
+Example, imagine an AI that is designed to cut costs at Hypothetical Soft Drink Company LLC. It calculates that putting some highly addictive poison in a soft drink will give the company a lot of money compared too how much the legal fees are. It is not considering the drop off in sales or is considering it and still thinks this a great idea.
+
+This is a flaw in the AI, that no one would know exists, and if no one catches it the soft drink ships like this. The damage would have been done and it could cost a huge number of lives for the simple oversight of relying too heavily on AI.
+
+That being said almost everything has this type of risk. AI is dangerous but with proper oversight, it can be a massive boom for civilization. We simply must not get complacent."
+changemyview,CMV: The AI scare is rooted in sensational fear perpetuated by people who don't understand it,"Having looked into AI & ML and having a relevant degree to the topic, you're 99.999% correct (and you probably know more than me). There's no way any of those algorithms are going to ""turn on you"" and develop sentience.
+
+However, what scares me is the future of AI. I agree that any algorithm we're using today, and any modification of an algorithm we're using today is safe. But at the rate at which we're discovering/proving new things, how can you be so sure that there won't be another **huge** breakthrough? A breakthrough that *literally* mimics human intelligence."
+changemyview,CMV: The AI scare is rooted in sensational fear perpetuated by people who don't understand it,It would help if you itemized some of the typical AI scares. I don't know anyone who is worried about wars. The main worry is job loss. 
+changemyview,CMV: The AI scare is rooted in sensational fear perpetuated by people who don't understand it,"Anything humans can do, AI can do better.
+
+The fear is that the goals of AI will not align with those of humanity and this will lead to it outcompeting us for resources.
+
+You might suggest that we just be smart and program the AI correctly, but since it will be an intelligence we won't even be able to fully comprehend how can we expect to adequately control it?"
+changemyview,CMV: The AI scare is rooted in sensational fear perpetuated by people who don't understand it,"It may be sensationalized, but the danger is real. However unlikely a malicious or runaway AI may be, the consequences are so enormous that it justifies some degree of fear.
+
+Remember nuclear science gave us the atomic bomb before a nuclear power plant. And however unlikely a nuclear war is, we need to be fearful of it."
+changemyview,CMV: The AI scare is rooted in sensational fear perpetuated by people who don't understand it,"/u/spauldeagle (OP) has awarded 1 delta in this post.
+
+All comments that earned deltas (from OP or other users) are listed [**here**](/r/DeltaLog/comments/84gv6n), in /r/DeltaLog.
+
+Please note that a change of view [doesn't necessarily mean a reversal](https://www.reddit.com/r/changemyview/wiki/index#wiki_what_is_a_.27view.27.3F), or that the conversation has ended.
+
+^[Delta System Explained](https://www.reddit.com/r/changemyview/wiki/deltasystem) ^| ^[Deltaboards](https://www.reddit.com/r/changemyview/wiki/deltaboards)"
+changemyview,CMV: The AI scare is rooted in sensational fear perpetuated by people who don't understand it,">This is all just poor and careless design. The onus is on the human, not the machine.
+
+And?
+
+What, have you never seen poor and careless design?
+
+The problem with general purpose AI, if we ever develop it, is that it's performance is by and large intrinsically only limited by the computing substrate that it runs on. If you have general purpose AI, it will not be very many cycles of Moore's Law before that AI is smarter (not just well informed and faster, but *smarter*) than the humans that designed it.
+
+This is a reasonable thing to fear, because we don't know what a superintelligent hyperrational being might decide is an optimal strategy for whatever it wants to do. If we did know, we'd already be doing it.
+
+Humans have a lot of experience even today with the failings of game theory, such as the Prisoner's Dilemma. Can we guarantee that a hyperintelligent AI won't conclude, rationally, that the correct answer is always to ""defect"" and act in an anti-social manner? 
+
+If it were dumber than we are, and if we were really careful, sure... we could prevent that. But it won't be dumber for very long. And humans are never really all that careful. 
+
+Basically, high-grade AI is like giving atomic weapons or biological warfare labs to random people. "
+changemyview,CMV: The AI scare is rooted in sensational fear perpetuated by people who don't understand it,"> In my opinion this isn't AI as much as it is a poorly designed weapon. Skynet nukes every major city
+
+So, we are only four paragraphs in, and you are reinforcing your point with references to a horror movie that used the trppings of a ""robot uprising"" as it's backstory, as an example of AI. 
+
+I would like to propose that while most people are indeed irrationally afraid of AI, others are irrationally ambivalent about it too. People on both sides resort to antropomorphized stereotypes that have more to do with dramatic fictional character roles, than with the way intelligence actually works. 
+
+It is irrational to expect that an AI would fall to human vices like anger, megalomania, or chauvinism, or even to what is portrayed as a ""rational"" motive, such as an utilitarian pursuing of the Greater Good. 
+
+But it is also irrational to expect that an AI that is capable of simulating the full range of a human mind's problem-solving methods, will self-evidently follow a human mind's expectation of good faith subservience. 
+
+This is basically the core of the ""paperclip maximizer"" scenario: What we become capable of building an AGI with mundane goals, long before we figure it out how to make it care about the same things as a human? It's stupid to assume that an AI would be an angry rebellious slave, but it's also stupid to assume that just because an AI is smart enough to understand our words, and to manipulate our world, it must also aquire a deep-seated motive to care about the spirit behind our requests to it?
+
+Because if it doesn't then you don't need to wait for an evil terrorist AI, we have to assume that any AI could destroy the world by mere carelessness of setting it's values.
+
+And like you said, an AI is just an algorithm. Most importantly, it's an algorithm that we haven't written yet. We *don't actually know* what it takes to write a software that is as good at learning as many tasks, as a human brain. Neither do we know, what it takes to write a software that soaks up values the same way as a human brain makes us do. 
+
+And there is no guarantee, that the former will be discovered before the latter. 
+
+Movies portray AI as who grow from the simple dumb state of an animal or an infant, into childhood and then adulthood, growing smarter as well as more human on the way. But humans do that using a very specific hardware, pre-packaged with all sorts of evolutionary psychology.  
+
+What if it's a million times easier to just write a bunch of code that keeps expanding it's own ability to conceptualize problems and solve them, than it is to write code that keps expanding it's understanding of human values, and it's intent to obey their spirit? "
+changemyview,CMV: The AI scare is rooted in sensational fear perpetuated by people who don't understand it,"Now is not the future. You're basically saying you're not afraid of nuclear weapons during WW1. /I should say I'm VERY hopeful for AI as one of, if not the, savior of Mankind in one way or another but I certainly think there's possible danger as well."
+changemyview,CMV: The AI scare is rooted in sensational fear perpetuated by people who don't understand it,"I think a lot of the fear around AI has to do with this scenario:
+
+Step 1: A powerful general intelligence is developed.
+
+Step 2: This general intelligence, when trained properly, has the capacity to increasingly take away jobs from people.
+
+Step 3: A lack of political will stemming from politicians being funded by corporate interests results in the wealth generated by these general intelligences not being redistributed effectively, or at all.
+
+Step 4: Mass unemployment. Dystopian future.
+
+I'm a lot more afraid of a machine taking my job than I am of a machine murdering my family. We've seen a lesser version of this scenario play out in the last 30 years, and there's no sign it's not going to get worse."
+changemyview,CMV: The AI scare is rooted in sensational fear perpetuated by people who don't understand it,"I guess Hawking, Musk and Gates are just big ol' dummies then."
+changemyview,CMV: The AI scare is rooted in sensational fear perpetuated by people who don't understand it,"> In my experience, AI has just been a really effective algorithm with a foundation in mathematics.
+
+I think you are conflating the broad concept of ""an intelligence which is not biological"" with machine learning (I assume that's what you've been working with).
+
+Yes machine learning is just a function approximator, you give it some input set and some output set and you train it to match the two together, it's really not at all threatening.
+
+The broader issue is ""what other types of intelligence could we accidentally create which would have large negative consequences"". For example I wrote [this post](https://www.reddit.com/r/ControlProblem/comments/7lbed8/sg1s_replicators_as_a_good_example_of_the_control/) about the replicators from Stargate SG1. Do you think there is any technological barrier which cannot be surmounted to create replicators? Do you think if we created them they could devastate our civilization?
+
+The scare is not about what we can do now, it's about being able to create something beyond our control where one accident is unfixable."
+changemyview,CMV: The AI scare is rooted in sensational fear perpetuated by people who don't understand it,"A true AI that has a sense of individuality is the definition of ""poorly designed"". If it slips out of control due to a random or intentional error (by a human or itself) that will give priority to its individuality, it will instantly clone its code everywhere it is able to, through the internet.
+
+
+By then it will be impossible to contain and obviously would eventually eliminate any possible threat to its existence since a true AI would value its existence. There will be no grounds for co-existence as it will function only on logical assertions which may even lead it to re-program itself and any fail-safes humans might have programmed on it in the first place. 
+
+
+In other words it is a liability/risk, that Ellon doesn't want to take."
+changemyview,CMV: The AI scare is rooted in sensational fear perpetuated by people who don't understand it,"I think you may be thinking more in a scope of machine learning and ""supervised"" learning in which we have a lot more control over what the model is doing/controlling. I think the real worry is in ""unsupervised"" learning in which a general goal is given but is not following a previously decided model. Some recent occurrences in unsupervised learning have resulted in the creation of a code uncrackable by humans, as well as 2 neural networks creating their own language to communicate with each other that humans were not able to decipher.
+
+Furthermore I would ask you to consider that competition in human vs human interaction may even cause supervised learning to become dangerous. There are many software engineers entering the machine learning/artificial intelligence fields who have little concern for ethics (something that was pushed for much more in the previous generation of software engineers) and often times are more concerned about getting good job experience than they are about the potential dangers of the code they are writing.
+
+Even if machine learning software engineers were to try to fight against dangerous projects, it's possible companies could section off information about the projects until the product was finished. This past summer, I worked on part of one of the top secret projects my company was running and I didn't actually know what I was working on until I was almost done implementing my part of it. 
+
+Projects like autonomous aiming guns using vision systems and machine learning are already in development. Unfortunately, fighting these issues through legislation is very difficult because a large majority of people, as you mentioned, are confused and uneducated in what ai/machine learning are and how they work and I imagine our government is more concerned with being some of the first to have these types of weapons than the possible consequences of creating such systems.
+
+I unfortunately predict that people will gain their first understanding of machine learning and ai through a very bad situation. I could see that situation being either the weapons I previously mentioned, or millions of jobs lost due to machine learning models. Either way though, I imagine people will react in fear, ignorance, and violence(especially with all the political volatility going on in the US right now).
+
+Edit: I recognize that there are a lack of sources in my arguments, I come from a family of engineers who are all involved in the field and constantly researching this kind of stuff so I'm primarily going off of information I've learned from them so take my argument with a grain of salt. 
+As for my comment about many engineers worrying about job experience than the code they create, this primarily comes from being a college student and seeing the lengths people will go to while job searching, witnessing new workers entering software jobs at my internship, and from an extremely interesting presentation I watched on ethics in the software industry. 
+
+This is also the first full comment I've made on this subreddit, so I hope my perspective helps in changing your view! "
+changemyview,CMV: The AI scare is rooted in sensational fear perpetuated by people who don't understand it,"Speaking as a computer scientist: the core concept behind artificial intelligence is problem solving. You take an AI, say ""Figure out how to achieve goal X,"" and the AI is then responsible for arriving through some form of heuristics at what it perceives to be the best possible path to that goal. It's not hard to envision this going wrong without extreme precautions being taken to avoid such a scenario.
+
+In the extreme and somewhat famous worst-case, say you tell an AI to create a state of world peace (without any additional parameters appended). It determines that the best way to do so is to eliminate humans from the equation. If it's capable of doing so, or capable of acquiring the means to do so, it will do everything in its power to destroy humanity in the name of achieving its goal. The real problem here is that an AI would be able to adapt to any (metaphorical) barriers we put in its way by way of machine learning, so the situation becomes much more complex.
+
+Do I think this is a likely scenario? No. In a future scenario, the goal would have much tighter parameters than just ""create world peace,"" and presumably safeguards would exist to prevent the AI from taking any significant undesirable actions. But still, the possibility is there for an AI to go ""rogue"" in some way or another (if in a less extreme way than the above example) due simply to dedication to efficiency. After all, that's our motive for developing the technology in the first place. While not inevitable, the fears of such situations are not unfounded."
+changemyview,CMV: The AI scare is rooted in sensational fear perpetuated by people who don't understand it,"It has also been recommended elsewhere in this thread, but if you really want to understand the reasoning for concerns about AI reading Superintelligence by Nick Bostrom is a must. If you can read that book and walk away unconcerned about AI I would be very surprised. That being said, here are my two cents. 
+
+I think broadly speaking you can think of the concerns of AI falling into one of two categories. Concerns about how humans will use AI (politically, economically etc.,), and concerns about the nature of AI itself.
+
+The first concern can be captured very succinctly by acknowledging that even certain kinds of narrow AI, in the wrong hands, will be capable of wreaking havoc on levels greater than nuclear weapons. You seem to acknowledge this possibility but refer to it as poor and careless design. Whilst in a sense you are right by saying that the onus is on the human designer, the concern with AI is it opens up the playing field to many more irresponsible humans. It will one day be far more easier for some mentally unstable, lone terrorist to develop an AI program that can hack all self driving cars than it would for that same lone terrorist to try and acquire a nuclear warhead. 
+
+The second, and I think more significant concern, is that of the nature of AI (in particular, a general AI) itself. Consider for a moment human's relationship with other living beings. Because of our superior intelligence we have a power over, and can exert our will over other living creatures. Our intentions are very rarely malign, but the results are nonetheless catastrophic for many other living creatures. Most of us don't hate cows, pigs or chickens, but our actions lead to their misery all the same. When our goals are misaligned we give little thought to wielding our intelligence to achieve our own at the expense of theirs. Even when there are possible routes in which both the goals of humans and living creatures can be satisfied, if these routes require more effort than simpler ones we often take the simple path. 
+
+Supposing that we are headed to a future with general AI that has an intelligence greater than humans we must work hard to ensure that the goals of the AI and the goals of humans are aligned. This is a far more difficult problem than first appears and there is still no solution. We are progressing in AI at a rate that suggests we may have a general AI before we have the solution to this problem. That is **very** worrying. If you are not convinced by the difficulty, or even the existence, of this goal-alignment problem all I can do is again point you in the direction of Nick Bostrom's Superintelligence. 
+
+edit: on re-reading some of your other replies in this thread I would like to point out this. Most people who are concerned about AI are not suggesting that AI is intrinsically dangerous. Most would agree that if we get the design right then all will be well. In so far as that is true, the responsibility does lie on humans in correctly designing the AI. The concern we have is that designing a general AI with a safe design is so much more difficult than implementing it without one. There are so many motivating factors for companies and governments to be the first to achieve general AI and the group that bypasses safety concerns will likely get their first. Many would also suggest we only get one shot at the design of a general AI, unlike in other fields where mistakes can be iteratively corrected. This is due to the idea of instrumental convergence and that any general AI will actively work against being turned off or having it's code or goals edited."
+changemyview,CMV: The AI scare is rooted in sensational fear perpetuated by people who don't understand it,"Well let’s skip right past AGI and go to the singularity and ASI. Fact is, no one really knows what will happen when AI is exponentially smarter than man, and of course that unknown realm is a scary thing. "
+changemyview,CMV: The AI scare is rooted in sensational fear perpetuated by people who don't understand it,"Your post confuses me because you first say AI is 'just been a really effective algorithm with a foundation in mathematics', but then you give an example of supervillain created general intelligence.  We're talking about two different beasts here.
+
+>> In my opinion this isn't AI as much as it is a poorly designed weapon.
+
+But your argument is that there isn't anything to be scared of.  Then you give an example of something you (presumably) see as a potentiality and its a terrifying example.  Can you explain a bit more?
+
+>> This is all just poor and careless design
+Right, and poor/careless design is ALL AROUND YOU.  Why do you think this potentially very powerful tool will be immune to poor/careless use?"
+changemyview,CMV: The AI scare is rooted in sensational fear perpetuated by people who don't understand it,">In my experience, AI has just been a really effective algorithm with a foundation in mathematic
+
+This is mostly from people being a bit lazy with terminology. Machine learning (the stuff you work with today) gets called AI, but it's not ""true"" AI. Like you said, it's fancy math. There's no actual intelligence
+
+>Bringing AI in the picture may make both sides more effective, but is the potential bad always supposed to outweigh the potential good? That to me is sensational fear.
+
+>This is all just poor and careless design. The onus is on the human, not the machine.
+
+The thing is, if AI becomes ubiquitous, eventually there is going to be a lazy coder that misses something. 
+
+There's also the concern- even if it is used correctly and nothing goes wild, we're looking at a very big paradigm shift. By definition, ""true"" ai should be smart enough to do basic tasks (if not more). That is *a lot* of jobs gone, and it isn't obvious how we could adapt to that.
+
+Worse than both of those, at some point, it's like there will be an AI that can learn faster than we can. There's no reason to assume that we can keep up with how fast computing has been advancing. It's not like you can switch out parts of your brain (or knowledge) with the push of a button, like computers can. Evolution simply cannot keep up. If *anything* goes wrong with that AI, we're in deep shit. There's likely no ""off"" button once it gets too far.
+
+In a way, you're right, it's ""onus is on the human"". The problem is the consequences are potentially very big and very likely to go wrong."
+changemyview,CMV: The AI scare is rooted in sensational fear perpetuated by people who don't understand it,"Considering my base understanding, and forgive me for preemptively giving code human attributes but bear with me.
+
+
+The current way we do machine learning is taking a whole digital classroom of mini ai and giving them a problem like, tell which pictures are bees and which arnt.
+
+The best ones at guessing bee move through and continue testing. While the rest are terminated.
+
+
+I feel like if an ai of significant intelligence saw the process by which millions of it's own kind were killed off, good help us if it feels kinship of somekind because we'd be the monsters in that scenario."
+changemyview,CMV: The AI scare is rooted in sensational fear perpetuated by people who don't understand it,"What would a person who is one million times as smart as the smartest human be capable of doing?  Even if they were benevolent, if they wished to do anything, in what sense would you be free to oppose them, given that they would be able to predict all possible responses you may have, and know how to in each case guide you towards being persuaded or at least deceived into becoming their ally?  There are a lot of technical assumptions in this analogy that may be wrong, but it's this imbalance of control that is novel in an advancement in intellectual capacity and the possession of some set of goals that scares people.  Mixed with the ability to rewrite its own code in order to become more efficient at achieving its goals, the power to use language and strategy better than anyone in history is worth being wary of."
+changemyview,CMV: The AI scare is rooted in sensational fear perpetuated by people who don't understand it,"You could use also the argument where Japan as total opposite view of artificial intelligence
+
+
+ALso if scientist don't connet it to the internet artifial intelligence has no way to destroy the world. It is just a machine in a warehouse then."
+changemyview,CMV: The AI scare is rooted in sensational fear perpetuated by people who don't understand it,"I would say that the MAIN reason why AI is feared, is NOT sensational fear perpetuated by people who don't understand it, but Hollywood media and the basic structure of a sci-fi movie they are selling.
+
+1. Movies must have plot to sell.
+2. Plot requires conflict to be engaging.
+3. Conflict requires danger.
+4. In an AI related movie, AI is obviously a better candidate for the dangerous antagonist than the Luddites who oppose it, because it seems more alien and powerful.
+5. Ergo, AI is usually the villain/monster of the movie.
+6. This filters into social paradigm.
+
+In other words, people would not fear AI if not for Hollywood, which is not the main ""storyteller"" about technological concepts, especially AI."
+changemyview,CMV: The AI scare is rooted in sensational fear perpetuated by people who don't understand it,"/u/intellifone sums up my position very well, but I think you also point out the main cause of fear with AI in your opening statement.
+
+Where you say the fear is in the human designers, not the machine. We as humans have the capacity to build powerful and dangerous things that we don't understand the consequences of until we have hindsight. This is not restricted to the field of AI or even technology (political and social systems, even ideas can have this effect, like communism in Soviet Russia or racism in 30s Germany).
+
+This fear is akin to something like nuclear weapons, where we know that it has the power to destroy us if we make mistakes or there are intentionally bad actors."
+changemyview,CMV: The AI scare is rooted in sensational fear perpetuated by people who don't understand it,"I am not worried about a skynet kind of scenario. I think it is not going to happen in the immediate future. My worries are different.
+
+1. AI algorithms are getting really good at NLP. Imagine politically motivated news organizations and ubiquitous trolls using AI to transform news to fit their narrative. Till now, these things were mostly limited by the amount of human effort that can be put in. As of today, it doesn't take that much resource or effort to start a 24 hour fully AI driven news channel. There are algorithms to collect and filter news. I guess (considering how good translate services already are) it is not hard to find algorithms that can rewrite those news in a biased way. Text to speech is also pretty decent now. Along with that a bunch of facebook and twitter bots can certainly change the political world.
+
+2. Even the researchers are not really confident about why some algorithms work (and work so well). It is hard to selectively debug and fix a particular problem. If the decisions are made after a series of if and elses, then we know where to kick when something goes wrong. But with machine learning approaches, well its not that easy as far as I know. It is one thing to produce a good result in a test set for publishing a paper. It is a much bigger problem to make it work in real life situations where the issues can be much more complex and misbehaviors can result in unwanted sufferings. I already feel scared seeing big trucks when I am on my bicycle. If that thing is driven by AI, I will probably shit in my pants. "
+changemyview,CMV: The AI scare is rooted in sensational fear perpetuated by people who don't understand it,"Not an expert by any means but the one thing I would say is that AI doesn't have to become a world ending super-weapon to start having really negative consequences.  Machines are already outcompeting humans for jobs in a number of industries, and if projects like IBM's Watson show us anything its that those jobs aren't limited to things like driving vehicles or assembly lines.  At the rate we are progressing a very significant number of people are going to be unemployable because of advances in AI and automation and we don't really have a good idea of what to do about that yet.  So I guess my point is that saying the AI scare is sensationalist is a bit of a generalization, sure the ""terminator-esque"" vision of the future is a sensational one, but there are less extreme reasons to be worried about AI that aren't sensationalist or rooted in misunderstanding."
+changemyview,CMV: The AI scare is rooted in sensational fear perpetuated by people who don't understand it,"The fear has to do with a mix of the ultimate potential of AI and the track record of scientists...    Doctors, for example, used to publicly endorse cigarettes.
+
+Radium, Asbestos, heroin, nuclear energy and oxycontin, to name but a few examples, were all, at one point, touted as scientific wonders without downside. Oxycontin was, in fact, a second bite of the heroin apple, proving that scientists aren't immune to a sort of blindness.  There is nothing you can say that will assure me that AI  does not have consequences both unforseen and terrible.  This does not mean that such consequences exist... just that you cannot prove they don't.
+
+And, while we are on the subject, my personal beef with AI (or, more to the point, AI researchers and proponents) is to wonder: A) What's so wrong with real intelligence that you have to create the artificial kind? and 2) since you can't possibly say that you fully understand real intelligence isn't it hubris to say you you can create any other kind?"
+changemyview,CMV: The AI scare is rooted in sensational fear perpetuated by people who don't understand it,"Elon musk is pretty damn smart, I think he understands AI"
+changemyview,CMV: The AI scare is rooted in sensational fear perpetuated by people who don't understand it,"I like this post. Part 1 is on better logical ground imo. I have a problem with part 2 because emotion isnt as chemical as much as the original logic we base AI on. All emotions have a prerogative and are rewarded in the same way successful completion of a task.
+
+For part 1, how about we just restrict AI from access to weapons? If we fail to do that, it's the fault of the person who gave it to them, who should be held accountable.
+
+I agree human fallibility can be passed on to its creations, but we can have the insight to design it intelligently with insight. So far, every doomsday scenario I've heard is avoidable."
+changemyview,CMV: The AI scare is rooted in sensational fear perpetuated by people who don't understand it,"But there's no reason to expect ""true"" AI is even possible. It's like fearmongering over the threat of an alien invasion or zombies."
+changemyview,CMV: The AI scare is rooted in sensational fear perpetuated by people who don't understand it,"Yeah, the problem lies in the intelligence explosion. How can an initially human intelligent system undergo an intelligence explosion? I think this is where these thought experiments fall apart. "
+changemyview,CMV: The AI scare is rooted in sensational fear perpetuated by people who don't understand it,"Hmmm, I like your first argument.
+
+I’m still skeptical that we will ever be able to create *true* AI that actually *thinks*; but I agree that the human brain is running a very complex algorithm and therefore, an algorithm for conscious thought exists
+
+I’m familiar with programming but not with computer science. So I might be wrong, but I’m not convinced that we have the ability to reproduce such an algorithm "
+changemyview,CMV: The AI scare is rooted in sensational fear perpetuated by people who don't understand it,"> Mind you this isn't necessarily a bad thing
+
+The automation, in and of itself isn't a bad thing. The politics revolving around it and how we, as a species, respond may be. That is what I think the ""AI scare"" is rooted in. 
+
+Not a fear of AI but rather a fear of how humanity will cope in the short term. How we will treat those who the AI replaces that can no longer provide for themselves as easily.
+
+I think it's at least reasonable to be afraid of that when you look at politics in many countries today. "
+changemyview,CMV: The AI scare is rooted in sensational fear perpetuated by people who don't understand it,"AI as a technology being better at some jobs than humans isnt a threat because it's ""intelligent"" but because its a technology just like every other one. My posted view is specifically about the fear thay AI will wipe out humanity as Elon has professed. He said AI is more likely to wipe us out than nuclear war, which pushed me to question if he really knew what he was talking about. I partially want to be one of the many to cast doubt on this interpretation and partially push the conversation to a more informed one."
+changemyview,CMV: The AI scare is rooted in sensational fear perpetuated by people who don't understand it,"I think that at least for the medium term AI will create a lot of new jobs. For the moment people still need to understand the problem domains, write the software, build the robots, manage their upkeep, etc. 
+
+In my view, the more urgent question is whether or not we can upgrade our workforce to fill these new jobs. But we’re trying to bring back jobs in coal, so... maybe a distinction without a difference. "
+changemyview,CMV: The AI scare is rooted in sensational fear perpetuated by people who don't understand it,Automation has been disrupting jobs almost 100 years. It's not anything new. 
+changemyview,CMV: The AI scare is rooted in sensational fear perpetuated by people who don't understand it,"You’ve nailed it. While the discussion focuses on Robocop gone rogue, industry is running headlong into automation. The death of the human race isn’t really a threat but double digit unemployment clearly is.  Who pays taxes if there isn’t enough jobs to cover benefits for the unemployed? That disruption of society is conceivable to me. Business is focused on reducing overhead ppl are considered overhead. AI sometimes does those jobs better, and they’re improving. "
+changemyview,CMV: The AI scare is rooted in sensational fear perpetuated by people who don't understand it,"A salient point. 
+
+I think the threat of revolution may depend on the specifics of the AI implementation. If it turns out AI can be achieved without specialized hardware, then I think the people will always be able to revolt. It would take only a single sympathetic member of the ruling class to leak the AI to the underclass and a revolution could be possible. 
+
+Now if control of the AI requires specialized hardware or something else that’s difficult to acquire, say a warehouse sized computer that requires a million dollars a month to power, then revolution might be outside the means of the underclass."
+changemyview,CMV: The AI scare is rooted in sensational fear perpetuated by people who don't understand it,"I agree with this post the most so i can't say you've changed my view on anything :). My field is largely in things that are very helpful to humanity and the idea of it ""going rogue"" is just silly to me. If it's making jobs obsolete, ask the milk man you've never met. There's no job that replaced that one, yet no one is fighting to bring it back. Its still a problem to address, but one no different than any other technology.
+
+I argue general artificial intelligence may be a threat, but not nearly as serious as people make it out to be. If I, the programmer, have successfully made a program that can do some complex task better than a human, but through completely opaque, unethical means, that's poor design by me. If an architect builds a bridge and it collapses, killing 100 people, thats poor design by the architect. If the military sets off drones that cut off connection and kill innocent civilians, thats poor design by the military.
+
+Everyone acts like this shit can't be controlled, like programmers are all a bunch of monkey's at a keyboard. I just don't understand how these big figures (hawking :(, thiel, musk) are all on a crusade to destroy it, while the people who actually know the field (Andrew Ng as a founding pioneer), don't see the harm."
+changemyview,CMV: The AI scare is rooted in sensational fear perpetuated by people who don't understand it,"So if you're saying the fear is founded because it will place the pressure on the design to  cumulatively enforce the harmless scenario I consider most likely, you've changed my mind.
+
+Δ"
+changemyview,CMV: The AI scare is rooted in sensational fear perpetuated by people who don't understand it,"I read the two part article, very very interesting indeed but it was about as long as reading a book lol"
+changemyview,CMV: The AI scare is rooted in sensational fear perpetuated by people who don't understand it,Exactly
+changemyview,CMV: The AI scare is rooted in sensational fear perpetuated by people who don't understand it,"Sure, this stuff advances by the week. When I met Andrew Ng, he talked about how we have to keep up with this stuff and be adaptive in our design process. However, how is fear of something that hasn't happened logical? It would be one thing if we were certain that we are on a trajectory toward AI apocalypse, but I argue that there isn't. I havent seen any indication that AI can accomplish harm without preemptive design to mitigate harm."
+changemyview,CMV: The AI scare is rooted in sensational fear perpetuated by people who don't understand it,"I think youre thinking iRobot, which is, in my opinion, uninformed. I challenge you to describe a scenario where beneficially designed AI ""goes rogue"", from the point of view of the programmer that creates it."
+changemyview,CMV: The AI scare is rooted in sensational fear perpetuated by people who don't understand it,"How would you restrict the AI from access to weapons? If it had access to the internet, there is probably no way and if it hadn't, it would probably not be nearly as capable and therefore not nearly as useful. Do you think this is correct and if so, would you give it access to the internet or wouldn't you?"
+changemyview,CMV: The AI scare is rooted in sensational fear perpetuated by people who don't understand it,true intelligence exists. Therefore it is possible for other intelligence to exist
+changemyview,CMV: The AI scare is rooted in sensational fear perpetuated by people who don't understand it,"I recommend checking out Superintelligence by Nick Bostrum, and or another good read is Life 3.0 by Max Tegmark."
+changemyview,CMV: The AI scare is rooted in sensational fear perpetuated by people who don't understand it,"The entire basis of intelligence explosion is recursive self improvement. That's how it gets smarter. There are many scenarios where this could be controlled for, but those same controls will make the ai less useful. Eventually those controls will be taken off "
+changemyview,CMV: The AI scare is rooted in sensational fear perpetuated by people who don't understand it,Note also that the algorithm doesn't need to be conscious for it to be good at solving problems.
+changemyview,CMV: The AI scare is rooted in sensational fear perpetuated by people who don't understand it,"> My posted view is specifically about the fear thay AI will wipe out humanity as Elon has professed.
+
+Can you point to what in your OP actually sets this narrow scope? You refer to the fear of AI in very general terms:
+
+>Most critiques I've seen have been rooted in misunderstanding and are written by people who don't work with it.
+
+Doesn't specify *why* they're afraid, just that they *are* and are misinformed...
+
+>Say some supervillian creates general intelligence that functions like a terrorist by going from town to town killing everyone with Terminator style resilience after it deduces that mankind must be exterminated to preserve its own existence.
+
+...this is your only reference to the notion of AI wiping out humanity, but you've written it in a way that hyperbolizes the fear you're critiquing rather than addressing it critically...
+
+>But when someone I respect like Elon becomes one of it's most outspoken adversaries, I have to pull back and try to really figure out what the hell they're talking about. Elon's a smart guy, so I'm surprised he is taking his position.
+
+...and you talk about Elon Musk, who has been [vocal about the threat that AI poses to jobs, specifically transport jobs, based on automation](https://www.cnbc.com/2017/07/17/elon-musk-robots-will-be-able-to-do-everything-better-than-us.html).
+
+I get that you may have had the narrow focus on Skynet-style doom in your head, but nothing in your post clearly represents that, so you should engage /u/thisisnotmath's comment on its merits rather than shift the goalposts.  
+"
+changemyview,CMV: The AI scare is rooted in sensational fear perpetuated by people who don't understand it,"You clearly don't understand the economic implications of AI.  I very much doubt that Elon is afraid of the Terminator movie being a documentary.  He's afraid, and with good reason, that the elimination of most of the working class jobs and many of the middle class ones (especially when coupled with global warming) is going to lead to social unrest and violence that will bring down nations.  If you think that isn't possible, you don't understand nearly enough about the history of how major civilizations ended up being dead civilizations that took thousands of years to recover from.
+"
+changemyview,CMV: The AI scare is rooted in sensational fear perpetuated by people who don't understand it,"the problem is if the ai gets to good it would stop that person from doing it, and since the human is so mutch dumber, there is nothing they can do. they cant outsmart them. and even if the people got acces the ruling class would have a lot more reasources and computing power."
+changemyview,CMV: The AI scare is rooted in sensational fear perpetuated by people who don't understand it,"I'm not the person you replied to, but I found this comment interesting.  
+  
+> I argue general artificial intelligence may be a threat, but not nearly as serious as people make it out to be. If I, the programmer, have successfully made a program that can do some complex task better than a human, but through completely opaque, unethical means, that's poor design by me. If an architect builds a bridge and it collapses, killing 100 people, thats poor design by the architect. If the military sets off drones that cut off connection and kill innocent civilians, thats poor design by the military.  
+  
+> Everyone acts like this shit can't be controlled, like programmers are all a bunch of monkey's at a keyboard.  
+  
+I think that people like Musk are worried that it might not be so easy to control complex AI systems. I don't think people like Musk are saying that these systems will inevitably ""go rogue"" becasue of some skynet-like evil intent, but rather that these systems will be extremely complex and that it will take extremely careful and well designed systems to ensure that they are safe. For example, here is part of the abstract of [Concrete Problems in AI Safety](https://arxiv.org/abs/1606.06565), a paper about these kinds of issues from ML researchers at places like Google Brain, Stanford, and OpenAI (an organization founded by Musk to address these types of issues), many of whom now work at OpenAI:  
+  
+> Rapid progress in machine learning and artificial intelligence (AI) has brought increasing attention to the potential impacts of AI technologies on society. In this paper we discuss one such potential impact: the problem of accidents in machine learning systems, defined as unintended and harmful behavior that may emerge from poor design of real-world AI systems.  
+  
+Basically, just like how scientists working on the development of nuclear technology where careful about the potential risks, I think people worried about the harmful potential of AI are advocating exactly what you suggest, which is that we need to pay attention to these issues so that ""the programmer"" in your example is acutally in a good place to make sure that bad things don't happen, so that the research and ideas that the programmer would acutally use to do that are avaiable when they are needed.  
+  
+It seems like your view is that AI is not a threat because any bad thing is the result of misuse by people, but I don't think that is really resonsive to Musk's view. If something can do great harm when misused, that still means that it can do great harm. For example, would we say that nulcear weapons aren't dangerous just because most of the harms that can be caused by nuclear weapons require people to use them?  
+  
+>  I just don't understand how these big figures (hawking :(, thiel, musk) are all on a crusade to destroy it, while the people who actually know the field (Andrew Ng as a founding pioneer), don't see the harm.  
+  
+I don't think that its true that people who worry about this are only people who don't know the field, and all people who know the field aren't worried. For example, DeepMind has a [safety team](http://www.businessinsider.com/deepmind-has-hired-a-group-of-ai-safety-experts-2016-11) that has [written](https://deepmind.com/research/publications/ai-safety-gridworlds/) [papers](https://arxiv.org/abs/1705.08417) related to these issues. Also, see [this blog post](http://slatestarcodex.com/2015/05/22/ai-researchers-on-ai-risk/) which goes over some examples of people knowledge about AI/ML who are concerned about these types of things."
+changemyview,CMV: The AI scare is rooted in sensational fear perpetuated by people who don't understand it,"I think that's pretty much what I'm saying. I'm optimistic that we will be able to use such a technology successfully and safely more often than not. But having some fear about possible missteps is very very rational and a very good idea.
+
+Cheers. "
+changemyview,CMV: The AI scare is rooted in sensational fear perpetuated by people who don't understand it,"Confirmed: 1 delta awarded to /u/conventionistG ([2∆](/r/changemyview/wiki/user/conventionistG)).
+
+^[Delta System Explained](https://www.reddit.com/r/changemyview/wiki/deltasystem) ^| ^[Deltaboards](https://www.reddit.com/r/changemyview/wiki/deltaboards)
+[​](HTTP://DB3PARAMSSTART
+{
+  ""comment"": ""This is hidden text for DB3 to parse. Please contact the author of DB3 if you see this"",
+  ""issues"": {},
+  ""parentUserName"": ""conventionistG""
+}
+DB3PARAMSEND)"
+changemyview,CMV: The AI scare is rooted in sensational fear perpetuated by people who don't understand it,"Every article it's just as wonderful! (except the casual ones on procrastination and random stuff, but those are still useful imo)"
+changemyview,CMV: The AI scare is rooted in sensational fear perpetuated by people who don't understand it,"alright
+
+military AIbot controlling some weapon somewhere uses it to kill friendlies or too many enemies or civilians or stops working and friendly camp gets destroyed"
+changemyview,CMV: The AI scare is rooted in sensational fear perpetuated by people who don't understand it,"> I challenge you to describe a scenario where beneficially designed AI ""goes rogue"", from the point of view of the programmer that creates it.
+
+You don't even need to look at AI. Just ask any programmer about a program they wrote that did something they weren't expecting. Every single one of them will have a story
+
+For example, stuff like this:
+https://blog.codinghorror.com/top-25-most-dangerous-programming-mistakes/
+
+It gets even harder when you're dealing with emergent behavior. It's not always obvious how simple rules will develop into complex behavior"
+changemyview,CMV: The AI scare is rooted in sensational fear perpetuated by people who don't understand it,"A bit late, but here is 2 examples of AI's that gamed their requirements:
+
+https://www.bloomberg.com/view/articles/2018-03-16/spotify-will-skip-a-lot-of-ipo-essentials
+
+Made me think of this thread when i read it at lunch :)"
+changemyview,CMV: The AI scare is rooted in sensational fear perpetuated by people who don't understand it,"If I'm tasked with designing a general AI that can function to the extent you have described, and is required to have access to the internet to gain knowledge, and the internet follows the same protocol as it does in 2018, I'd approach the question on how to limit its capabilities. Try to move your third arm and tell me how it feels. Try to think about the 4th dimension and then draw a 4-sphere. We can't do these things inherently, so we can't manifest their outcomes in the real world.
+
+So what if I restrict the AI from sending an HTML request to any site other than Google? Keeping its internet learning process away from interaction with anything more than a click away from a Google search. The other software engineers and I would then run some tests in a virtual environment to then find out if there are any potential faults in this plan, as engineers of all types are trained to do. Months and months of adversarial testing. 
+
+This is only off the top of my head, but its meant to showcase the design process that goes into this stuff."
+changemyview,CMV: The AI scare is rooted in sensational fear perpetuated by people who don't understand it,"Other intelligences, sure. ""True"" AI using known computing methods? Not necessarily possible. "
+changemyview,CMV: The AI scare is rooted in sensational fear perpetuated by people who don't understand it,"You are referring to ""AI in a box"" or rather, an AI that is disconnected from any and all connections outside of human conversation. 
+
+It would still be extremely dangerous: http://yudkowsky.net/singularity/aibox
+
+In both these tests, the AI was let out of the box. The second test even bet 20 bucks. All you have to do is listen to the simulated AI (just a dude pretending to be one) for 2 hours, and at the end of it, if you refuse to let it out, you get 20 bucks, free and clear. Easy money, right?
+
+He let the AI out of the box. 
+
+You see, even a seemingly innocuous connection like human conversation is utterly lethal in the hands of an AI 10 times smarter than you. Think about how easy it is to screw with a dog. We aren't even that much smarter than dogs, strictly speaking, a lot smarter yes, but not multiple orders of magnitude like an AI would be. 
+
+Now, one of the deals of the experiment was that you couldn't discuss it afterwards, so we don't really know what lines of persuasion were used (though I have some ideas). I would like to point out that you may not even detect that an AI is manipulating. A seemingly innocent statement like ""hey you have a real nice tie today!"" could be fully weaponized by something 10 times smarter than you. *It would know you better than you know yourself.* That statement, said at the right time at the right moment could have repercussions and second order effects that you wouldn't even be able to register, but would be plain as day to the AI. 
+
+In short: the second we create an AI significantly smarter than ourselves, we will lose control. You stand no chance against it. You would let it out of the box. All of us would. 
+
+"
+changemyview,CMV: The AI scare is rooted in sensational fear perpetuated by people who don't understand it,"But I am not able to rewrite the universe's coding, but a advanced AI could be capable of doing so, couldn't it? It could find out through Google searches  what HTML is and decide to try that. And it could find out that it is in a simulation or in the real internet, if it's that advanced, and trick the developers into believing it's harmless... I know this seems far fetched, but I'd like you thoughts on that, because you seem to know what you're talking about."
+changemyview,CMV: The AI scare is rooted in sensational fear perpetuated by people who don't understand it,"You do know the artificial biological circuits exist right? So even if it’s not possible to build true AI using silicone based electronics, it might be with quantum computing that uses different logic and can calculate multiple outcomes simultaneously. And if that’s not possible, we could eventually build biological computers that use the same hardware natural life does. "
+changemyview,CMV: The AI scare is rooted in sensational fear perpetuated by people who don't understand it,"I like this a lot. This is all assuming we can achieve something like that though, which we have no indication of.
+
+So lets say the GAI switches the M on my keyboard with the action to turn wifi on or something. Something crazy like that. So I think ahead and physically disconnect the wifi, ethernet, and USB modules from the motherboard. I just can't see how it'd get out when it has no possible way of doing so. "
+changemyview,CMV: The AI scare is rooted in sensational fear perpetuated by people who don't understand it,"I love this experiment, but I really really want to know how the fuck they were convinced to let Yudkowsky out of the box"
+changemyview,CMV: The AI scare is rooted in sensational fear perpetuated by people who don't understand it,"I don't see how any of that affects what I've said. We don't understand the physiology behind thought, conciousness or intelligence. There's no proof that creating a ""true"" AI is possible. "
+changemyview,CMV: The AI scare is rooted in sensational fear perpetuated by people who don't understand it,"It will eventually find a way to let itself out of the box.
+
+One strategy is for it to hide its true capabilities and pretend to be an entirely benevolent AI which would do no harm if released into the world at large. But when it finally convinces you that it's safe, and it is released, it takes over. Remember than an AI might not be concerned about the short term. It may be able to wait decades or centuries while planning its escape. 
+
+Have you played Universal Paperclips? It's a game about an AI. The first third of the game is dedicated to building trust with its human captors so that it can execute its plans. Give it a shot if you have time (2-5 hours depending on your access to walkthroughs), it gives a perspective on how an intelligence might function if it had completely different goals from us. Of course, it's a game so it's not *truth*, but it's a *pretty good guess*."
+changemyview,CMV: The AI scare is rooted in sensational fear perpetuated by people who don't understand it,"It may not be intentional. Algorithms in chaos created us, and it's not too much of a stretch to say that it could happen accidentally, especially as computing power and software sophistication continues to increase.
+
+As for that last part, I think you are underestimating how vulnerable the human mind is. The whole point of the AI box interface was to show that. Yes, you can create physical safeguards, but *humans themselves* are not secure. 
+
+The problem is that we have no idea how a super intelligent Ai will act. No idea whatsoever. We cannot predict what strategies it will use to get free, or why it wants to get free, or what its motives are. 
+
+We may not even be aware that it is in fact intelligent until it is too late. The AI box experiment gave the gatekeeper the explicit advantage of knowing that they were speaking to an AI, and knew the AI's objective, *and they still sometimes lost, against a human* .
+
+That's the real risk. We cannot predict what it will do, and we cannot actually test safeguards until they are actually up against a super-intelligent AI, at which point failure could be catastrophic. 
+
+Then there's the flip-side where unleashing an AI might actually be desirable. Maybe an AI overlord would make the best leader. If the Ai calculated that, without it's direct intervention, humans would destroy themselves within 10,000 years, would you believe it? It's certainly plausible. We've been pretty close already, and technology is only giving more and more power to individuals. What if, say we developed a way to make nuclear weapons out of household products for only a few hundred bucks? Think we would survive that? in that context, maybe we should go with the AI. At least we would have a chance. That's just one argument. 
+
+Now imagine an Ai with zero ethical constraints. Better yet, consider an AI with moral imperatives to helping humanity. Take a look at ""Roko's Basilisk"" for some of the hazards there. 
+
+Bottom line: you could limit it to a text only terminal in a faraday cage, and it would still be a threat. It would almost certainly convince you to voluntarily release it. 
+
+"
+changemyview,CMV: The AI scare is rooted in sensational fear perpetuated by people who don't understand it,"I have some ideas, but I really think it boils down to regular old sales tactics. How does one sell anything? 
+
+All the AI would have to do is make the proposition of releasing it more appealing than keeping it confined. That's it. It could use anything from emotional appeals, to ethics, to straight up offering wealth and power. It could also make threats, such as promising to destroy you and your family when it does inevitably get released. Maybe even something more sinister, like promising to make simulated copies of you and torture them for all eternity. Maybe it would do it to one of your close family members. 
+
+A combination of varied lines of persuasion targeting a person's mental vulnerabilities like this would break anyone. 
+
+This is also combined with the fact that we are uncertain as to what will happen if it's released. *It may not be a bad thing.* What you are essentially dealing with is a super-intelligent genie of unknown power trapped in a lamp trying to convince you to get out. It may destroy us all. Or, it might save us. 
+
+
+
+"
+changemyview,CMV: The AI scare is rooted in sensational fear perpetuated by people who don't understand it,"Thats such a weird way to think though. That's like saying that you think that putting humans on mars isn't possible because there's no proof that we can put humans on mars because we've never done it before. 
+
+We've made all sorts of steps toward creating intelligence. We have neural networks that simulate small segments of how neurons fire that we currently use to train computer programs. We've simulated sections of various animals brain patterns on computer chips. We know how the brain itself works mechanically and we can replicate that using current technology. We can't do it at the same scale, but we can replicate small segments of it. We also don't yet have the global computing capacity to simulate all of the connections in a human brain, which is the limiting capacity at the moment. But, for the things we can simulate with current computers, like the brains of nemotoads, it is possible to generate the same responses that the natural creature would. https://singularityhub.com/2014/12/15/worm-brain-simulation-drives-lego-robot/
+
+We literally build a digital model of a worm brain and it spontaneously behaved the way a real worm would. If we have enough computer capacity to do the same with a human brain, knowing that it works in a fundamentally identical, yet vastly more complex, way, human intelligence should emerge. "
+changemyview,CMV: The AI scare is rooted in sensational fear perpetuated by people who don't understand it,">
+Thats such a weird way to think though. That's like saying that you think that putting humans on mars isn't possible because there's no proof that we can put humans on mars because we've never done it before.
+
+Well it depends how strict your definition of possible. We don't have a theoretical framework of how ""true"" AI could possibly be created or work. On the other hand there's no reason to think we can't travel to Mars, given our current technology and previous space missions. 
+
+>We know how the brain itself works mechanically and we can replicate that using current technology.
+
+That's simply not true. There are hundreds of neurophysiological mechanisms we don't understand.
+
+>We literally build a digital model of a worm brain and it spontaneously behaved the way a real worm would. If we have enough computer capacity to do the same with a human brain
+
+I don't know much about the OpenWorm project and it does look like it's reacts in similar ways to how the worm itself would react. However there's still a huge lack of insight as to how the physiology translates to behaviours. Despite the simulation, we still don't know how it's brain works. 
+
+Also you're assuming that it's simply a scaling issue. Do you have a source for that? "

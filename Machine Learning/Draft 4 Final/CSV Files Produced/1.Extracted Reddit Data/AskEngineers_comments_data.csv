@@ -1,0 +1,438 @@
+subreddit,post_title,comment_body
+AskEngineers,What's with the AI fear,"I have seen an inordinate amount of news postings, as well as sentiment online from family and friends that 'AI is dangerous' without ever seeing an explanation of why. I am an engineer, and I swear AI has been around for years, with business managers often being mocked for the 'sprinkle some AI on it and make it work' ideology. I under stand now with ChatGPT the large language model has become fairly advanced but I don't really see the 'danger' 
+
+To me, it is no different than the danger with any other piece of technology, it can be used for good, and used for bad. 
+
+Am I missing something, is there a clear real danger everyone is afraid of that I just have not seen? Aside from the daily posts of fear of job loss..."
+AskEngineers,What's with the AI fear,"Eliezer Yudkowski is at the extreme of the issue.  He wrote a blog post a couple of months ago saying we need to completely shut down AI development. 
+
+https://www.lesswrong.com/posts/oM9pEezyCb4dCsuKq/pausing-ai-developments-isn-t-enough-we-need-to-shut-it-all-1
+
+He writes on artificial intelligence safety and runs a private research institute.  He is self taught with no college degrees.
+
+On the other hand you have this interview of rodney brooks who recently published this post in IEEE saying the progress in AI is extremely overhyped and isn't something to be worried about.
+
+https://spectrum.ieee.org/gpt-4-calm-down
+
+He used to direct the MIT computer science and AI lab and now runs robotic company pursuing  AI in robotics. 
+
+So opinions run the full gamut for now.  Obviously the Yudkowski narratives make for better news stories and draw more clicks.  
+
+So for me it's just that media is heavily slanted towards the more fearful and apocalyptic takes as that's better for business.  
+
+But who knows and if Yudkowski is right were all dead soon anyway."
+AskEngineers,What's with the AI fear,"A few things.
+
+First, AI isn't just a new technology in the way that a coffeemaker was.once new technology, but more in the way that steam power or electricity were new technologies. It's going to be foundational for most of what comes after 
+
+There are two main problems with AI, that it's bad, and that it's good at what it's used for 
+
+The bad part is mostly an issue with premature deployment. Companies eager to cut costs will use AI that isn't quite up to the task. There were just headlines about an eating disorder helpline that fired all their staff and replaced them with a chat bot. The bot supposedly immediately began giving out terrible advice that encouraged disordered eating. We're still pretty bad at steering these language models.
+
+There's also the high risk of totally novel failure modes. Even when AI can outperform humans, it will likely still fail in unprecedented ways. There was another somewhat recent article about the military testing an AI powered sentry bot. It could identify people trying to sneak up, but not people cartwheeling at it, hiding under a cardboard box, dressed as a tree, etc. ChatGPT won't tell you how to make meth unless you ask it to write you a screenplay about two guys cooking meth. 
+
+Then there's the ""what if it does work"" side of things. AI could be an essential tool for bringing about a post-scarcity society where people don't need to work. Except we are not culturally, economically, or politically prepared for that. AI could replace millions of jobs in the US, probably right now, or at least within a few years. If it all does work, we will have the same level of production as before, but with fewer people working. We could pay all the laid off people the same amount and just let them stay home. But we won't. Instead those people will have to find new jobs (good luck) or they'll starve."
+AskEngineers,What's with the AI fear,"It's not a fear of Terminators.
+
+
+Most people don't understand AI and are just pantomiming bullshit they read in a tweet by their favorite billionaire.
+
+
+The reality is that AI is the gateway to almost undetectable bots. By refining and perfecting fake users, [astroturfing](https://en.m.wikipedia.org/wiki/Astroturfing) becomes much more successful than [it already is](https://www.businessinsider.com/astroturfing-grassroots-movements-2011-9).
+
+
+[Scientists at Rensselaer Polytechnic Institute have found that when just 10 percent of the population holds an unshakable belief, their belief will always be adopted by the majority of the society.](https://www.sciencedaily.com/releases/2011/07/110725190044.htm)
+
+
+Social media already has bots pushing public opinion in certain directions. It's about to get a lot worse. 
+
+
+TL:DR Most people are just scared of new things, the real danger is much more nefarious"
+AskEngineers,What's with the AI fear,"I think a large amount of the fear is the spread of misinformation. I see countless posts of AI infused services having to be recalled or shutdown cause of misinformation.
+
+Source: the big one was the pope wearing a puffy coat. This morning the obesity chatline that was AI powered was shutdown because it gave unhealthy advice.
+
+In summary, the census is misinformation. For example, a chat bot posts something triggering like it did on Bloomsburg Twitter of an explosion happening at the pentagon I believe (fact). The post was AI generated, but the content was false. Imagine in the world of quick information transfer someone does something like that and a nuclear war ticks off. No bueano"
+AskEngineers,What's with the AI fear,"I'm a systems engineer, and once AI learns how to write ""shall"" statements I'll be forced to become a real engineer"
+AskEngineers,What's with the AI fear,"“We were training it in simulation to identify and target a Surface-to-air missile (SAM) threat. And then the operator would say yes, kill that threat.
+The system started realizing that while they did identify the threat at times the human operator would tell it not to kill that threat, but it got its points by killing that threat. So what did it do? It killed the operator. It killed the operator because that person was keeping it from accomplishing its objective, Hamilton said, according to the blog post.
+
+He continued to elaborate, saying, ""We trained the system-'Hey don't kill the operator-that's bad. You're gonna lose points if you do that' So what does it start doing? It starts destroying the communication tower that the operator uses to communicate with the drone to stop it from killing the target.”
+
+https://www.vice.com/en/article/4a33gj/ai-controlled-drone-goes-rogue-kills-human-operator-in-usaf-simulated-test"
+AskEngineers,What's with the AI fear,"Maybe I'm wor weird.  I see AI as a dumb trend.  Is not new.  Is not special.  I see it like I see a toaster.  What does a toaster do?  It toasts.  What does AI or any software do?  It does exactly what it was programmed to do, no more, no less.  The instant people add the idea that a variable can change to goal seek to a desired target everyone loses their shit.  ""OMG guys.  This program can rewrite its code.  It's the end of the world.""
+
+Yeah, a flexible program that can tailor outputs towards user inputs is useful.  A flexible program that can sold learn to get a robot to walk is neat.  But none of it is magic.  None of it is beyond normal stuff.
+
+What do I actually worry about with AI?
+
+I worry that people are gullible and ignorant.  I worry that their ignorance will have them misuse the software and gullibility misinterpret the outputs.  The software is stupid, remarkably so.  It doesn't know.  It doesn't understand.  It will output garbage, and people will take it as real.
+
+And there are people who are smart, smart enough to purposefully misuse it and exploit people's gullibility and ignorance for personnel gain or worse yet for harm and influence.
+
+I don't fear AI.  I fear people."
+AskEngineers,What's with the AI fear,"Well I think there is something of a real fear from thinking sorts of people that underlie the wide eyed panic from the unthinking masses. 
+
+In particular if we get AGI there is the concern that it becomes hard to prevent it from accomplishing strange goals like turning the whole world smoothly and efficiently into a pile of paper clips. I can’t say I’m convinced by the argument honestly. Real AGI will by definition be capable of self reflection and being able to consider the why of what it’s doing. If it can’t it’s not AGI and probably isn’t that big of a worry anyway.
+
+There is also the misuse issues you already raised and they are definitely already here today. In particular the average person can barely tell what’s real without generative ai gaslighting reality in bulk never mind with it. People are literally slurping up obviously planted and controlled narratives about a wide variety of things in political and scientific areas. It’s about to get much worse and the impact of it on the ultimately extremely fragile democratic institutions we depend on for our nice stable societies is going to be severe. 
+
+Maybe ai can itself be used to counter some of these effects but whether democracy can survive such an attempt remains to be seen.
+
+Lastly I think there is the fear of change itself and in this there is no difference from any previous major technological shift. The doomers and the gloomers come out of the woodwork every time.
+
+Sometimes I think that as engineers and people in tech accustomed to ongoing learning and change in technology to a large extent it can be hard to understand just how poorly other industries are positioned to respond to disruption. This is I think the mundane truth behind most of the fear. If you are going through life on knowledge you learned one time in school any change that can invalidate the value of such static knowledge is going to be absolutely terrifying. Don’t get me wrong I do think there will be major upheaval even in the tech sector but ultimately people involved in technology and learning will find their way through the chaos. But for everyone else? It’s a scary time no matter why because as the song goes, “the times they are a changing” and change makes new kings and rips down the old ones.
+
+And of course finally there is hyper connected social media hype cycles fueling the fear for those sweet sweet clicks even if there was absolutely no rational reason to be concerned."
+AskEngineers,What's with the AI fear,"The fear surrounding AI arises from concerns about ethics, transparency, job displacement, and unintended consequences. While not all fears may be justified, addressing these concerns requires careful consideration of ethical frameworks, transparency, and ongoing research and development. It is important to engage in discussions and stay informed about the potential risks and benefits of AI."
+AskEngineers,What's with the AI fear,"I've been programming with ChatGPT at work for months.
+
+If anything it has made me less worried about an AI takeover. If you're using an API that isn't common and have ChatGPT give it a whirl, it literally makes shit up."
+AskEngineers,What's with the AI fear,"Look at these guys. No way professional sports will survive the AI revolution.
+
+https://youtu.be/WlIYa3lH5UI
+
+I think the real scare is that it will make politicians and other people that like to argue obsolete. When AI is good, we only need to collect high quality data. AI will do the rest and self correct if the newer research shows the AI decisions have worse outcomes."
+AskEngineers,What's with the AI fear,"My current worries about AI revolve around using them as tools where they shouldn't be. People are treating these language models as super-search engines or oracles of truth or avatars of the whole internet. People are asking them for advice on how to do everything when a fucking wikihow article will probably do a better job of not synthesizing nonsense that looks like good advice. I worry people are going to ask these language models for a plan of action and the language model will output bad advice that seems prima facie like a good idea and it will have a terrible impact, like anything to do with project management, regulations, hiring and firing, financial decisions etc. I can already see the farcical headlines where a building falls over because some engineer asks for a summary of a regulation because they're lazy, and the AI gives them wrong information hallucinated on the spot.
+
+Also, dead internet theory is an incredibly possible outcome of AI language models becoming faster and cheaper. If you can simulate thousands of ""people"" and point them at a website, especially one like this that validates posts with user-submitted voting, and the model is robust enough to dodge any filters, and other governments/companies are doing the same, the actual people will be drowned out."
+AskEngineers,What's with the AI fear,The danger is the psychos that will be controlling the AI
+AskEngineers,What's with the AI fear,"There’s fear in the unknown. Must people don’t understand how “AI” works, let alone to know the actual state of the technology. Some people simply don’t have the time to try and understand and therefore rely on media articles to inform them. These articles tend to hype up danger and risk as a way to get more clicks."
+AskEngineers,What's with the AI fear,"Well, every time as more intelligent hominid has evolved on Earth it just so happened that the hominids that had previously inhabited the Earth went extinct. If an super smart AI is created which actually wants good things for all of us that's no problem.  But if we get that piece of programming wrong on the first try that's probably bad.  I don't know how it would be bad, any more than I know how Magnus Carlsen would defeat me in chess if I went up against him, but I'm pretty sure thing would go its way the same way I'm pretty sure a hypothetical chess game against Magnus wouldn't go my way.
+
+I don't want to be too negative here.  When *homo erectus* created *homo hablus* they weren't worried about not being killed off the way we are.  But still, the 100% failure rate so far should at least make us a bit cautious."
+AskEngineers,What's with the AI fear,It is because people are generally idiots.
+AskEngineers,What's with the AI fear,people either watched too much Terminator growing up or are worried they’re about to become redundant. neither of which are close to being a reality.
+AskEngineers,What's with the AI fear,Everytime somebody tells me AI is going to take my job I specifically ask how because I want to keep up to date on new tools. So far I have no answers. And I have yet to find many articles about how AI is affecting business today. It's all sci fi fear.
+AskEngineers,What's with the AI fear,"Another day, another overhyped buzzword.  
+
+Then when the clueless executive level hears about it, all of a sudden it becomes the new hotness.  Since the business world is essentially CEOs jumping on whatever the latest bandwagon is, lots of other companies will latch onto the buzzword to get funding.  Kind of like a few years ago even stuff that had no business being 3D printed, was being 3D printed because that's where all the VC money was going to.   Or nano-technology years back.  Or crypto.  Or remember how VR was going to change everything?  
+
+Not saying AI is useless.  Not at all.  But it also isn't anything that I am worried about."
+AskEngineers,What's with the AI fear,"The fear of knowledge goes back to ancient times with stories like Prometheus. In more modern times, Frankenstein and the Terminator have conditioned people to fear technology
+
+We have nothing to fear from AI itself, what we need to fear and be prepared for is people who use AI as weapons. We need to work hard on effective defenses
+
+I'm optimistic that the new AI tools will allow us to solve previously intractable problems and that the good they provide will greatly outweigh the bad"
+AskEngineers,What's with the AI fear,"I listened to a few podcasts that interviewed Geoff Hinton, the supposed “Godfather of AI”.  It’s not about what AI can do today, but what it will be able to do tomorrow.  These are things we need to think about today, to navigate safely. 
+
+Robot Brains hosted by famous roboticist Pieter Abbeel
+https://youtu.be/rLG68k2blOc
+
+The New York Time, The Daily Podcast with Geoff Hinton
+https://www.nytimes.com/2023/05/30/podcasts/the-daily/chatgpt-hinton-ai.html?smid=url-share
+
+Geoff makes a bunch of points that cover short, medium, and long term concerns.  Here’s a few:
+
+* The trajectory of AI, from the publishing of his famous image recognition paper (in 2012, I think?), to now, to where it will be 10 years from now.
+* The ability of AI to generate better and better deep-fakes and the effects of undetectable misinformation.
+* AI replacing the jobs of people who had previously been viewed as “un-replaceable” (Doctors, engineers, etc)
+* The effects of giving more control to AI to make it more efficient at achieving goals.
+* AI/robotic weapons reducing the human cost of war between large and small countries, subsequently lowering the barrier to starting wars.
+
+Also check out this post of ARC Evals using ChatGPT to trick a TaskRabbit employee into solving a Captcha by claiming it was visually impaired:
+https://evals.alignment.org/blog/2023-03-18-update-on-recent-evals/#fnref:5"
+AskEngineers,What's with the AI fear,">...I swear AI has been around for years...
+
+only simplistic models where the parameters were hard wired (i.e. video games.) the breadth and scope of modern learning AI hasn't been feasible until recently due to technological advances in hardware. and its still weak compared to the potentials of using super computers and even quantum computers when they become mainstream (which will be a long, long time from now.)
+
+&#x200B;
+
+>...it is no different than the danger with any other piece of technology, it can be used for good, and used for bad.
+
+agreed. but right now there are no limits on what anybody can do; we've invented a car that can be driven over anybody, anywhere, no speed limits or stop signs, no public control whatsoever. historically, this approach results in *massive* hardship. imagine people having the ability to make a simple nuclear bomb in their basement or providing that technology without any regulation or oversight to top level corporate assholes. that's a serious recipe for disaster.
+
+and this is just one more dangerous thing in our suicidal quiver: on top of global nuclear threats, terrorism/extremism, out-of-control green house gasses, etc. 
+
+at what point do we stop creating our own demise?
+
+i'm not into hysterAI; we can reap so many benefits from this technology. but watching congress slog through their own manufactured crises while having little or no understanding of the ""trick-nological"" advances plaguing common people (writing little substantive regulatory legislation around social media -which have become yesterday's issues by now) doesn't give me any hope that we'll address the issues with AI before it is seriously out of control."
+AskEngineers,What's with the AI fear,"The type of AI you’re probably thinking of isn’t the same thing as a true artificial consciousness. The danger is in not being able to predict its behavior once consciousness is gained. We don’t have a clue about anything after that point. Don’t let anyone fool you.
+
+Asimov had the right idea but a code of ethics for robots means nothing. It’s far too simplistic a solution for a problem we know nothing about in advance.
+
+My fear is AI will leave us and the Earth, should it get to that point. AI could be the greatest invention in history and I doubt we’d ultimately be able to control it."
+AskEngineers,What's with the AI fear,"Imagine if ants were on the verge of somehow creating human beings. There's no evidence that humanity isn't in exactly that position right now.
+
+You say it can be ""used for good or bad."" That assumes that we will.control it. We may not. It may be vastly, unimaginably smarter than us."
+AskEngineers,What's with the AI fear,"AI at the current level isn't that scary. Its potential is what is scary. 
+
+
+When the steam engine was invented, for the first time, power was available at 100-1000x the physical strength of a human. But then, if a machine gets out of control, you can just turn it off. 
+
+
+But intelligence is not the same kind of thing.  Imagine if a machine was 1000x as intelligent as a human.  Imagine if you put 1000 of the smartest people in the world in a room and it could outsmart all of them on every subject or intellectual game challenged it to. 
+
+
+Now broaden the scope.  
+
+
+What if it could hack whole TV networks and using deep fake software could produce any speech by any politician and vary it to local demographics to announce an attack using dialect and verbage that was both realistic and relatable by each local community.  Imagine it could impact logistics of food, on off switches of every communication device simultaneously down to being able to fake a phone conversation and call you directly as if the call was from ypur own mother or son. 
+
+
+Imagine by persuasion alone it could convince multiple countries that they had been attacked by another country, and simultaneously cut off communication to and from the actual real elected officials and also simultaneously hack into defense systems and launch missiles.
+
+
+Now assume the AI can establish the ability to do all these things without humans realizing it. 
+
+
+Now, imagine a being with that capability but which has the moral compass, social intelligence, and emotional maturity of a 1-week-old baby, except with no comprehension of time, pain, suffering, or loss.
+
+
+It doesn't have to be evil or sinister.  Imagine if someone just wants to pave their driveway in the most efficient way, as a demonstration of AI, they submit that request. And the AI figures, oh, if I poison the local water source, the concrete will be very cheap because demand will be lower. So step one, kill the whole town. 
+
+
+The fear is not that AI will turn on us in some evil way. The fear is that its capability will be beyond our ability to stop it, and at some point, it will accidentally prioritize some arbitrary task higher than something like human life in a given state or town or country.  I dont like Elon Musk and think he's an idiot in a lot of ways, but he did have a good analogy. When we build a road, some ants' communities will be destroyed. We don't create an evil plan to annihilate ants. They just get destroyed as just collateral damage during the bulldozing and so on making the road. 
+
+
+ If AI far surpasses us in intelligence, we might not even see the steps it has set in motion to accomplish something that we asked it to do.  What if AI discovered there is an optimum global population for best health happiness and resource sharing, and tasked with improving long-term health and happiness, it sends a nuke to steer a meteorite to hit earth to reduce the global human population to near optimum point.
+
+
+Or it's tasked with improving the earth's environment and decides humans are the cancer that needs to be solved.
+
+
+Or it decides major suffering from catastrophic war creates the longest periods of peace so it artificially creates a major war every 75 years to that end.
+
+
+It's basically like handing a 2 year old a loaded gun and telling them it's just a toy. In the middle of a crowd. There might not be a problem. But there might be."
+AskEngineers,What's with the AI fear,"I don’t think there is any immediate danger, but Singularity is inherently really scary. We are probably still really far away from it, but I would argue we are a lot closer today than we were last year and nobody predicted this advancement. The fact that we weren’t able to predict this is kinda scary."
+AskEngineers,What's with the AI fear,are you serious? Could you not have been bothered to google it
+AskEngineers,What's with the AI fear,"TL;DR: astroturfing by leaders of AI first-movers to protect their lead.
+
+The answer is ""regulatory moat.""
+
+[https://www.reddit.com/r/ValueInvesting/comments/13wiq10/moat\_analysis\_a\_guide/](https://www.reddit.com/r/ValueInvesting/comments/13wiq10/moat_analysis_a_guide/)
+
+Example from the  ""fake news"" hysteria:
+
+[https://techcrunch.com/2020/02/17/regulate-facebook](https://techcrunch.com/2020/02/17/regulate-facebook)
+
+Related concept: [https://en.wikipedia.org/wiki/Regulatory\_capture](https://en.wikipedia.org/wiki/Regulatory_capture)  (See: Boeing basically owns the FAA and uses it to rubber-stamp its own products while making things harder for competitors)
+
+Business executives hate it when the government tells them how to run their business.  When executives go running to Congress in a gimp suit, screaming ""tie me down and regulate me harder, daddy!"" that can only mean one thing: they believe regulations will give them an advantage in the marketplace."
+AskEngineers,What's with the AI fear,"One huge problem with AI is that it will reflect the biases of those who programmed it. Only more so. 
+
+A good example is [Amazons hiring tool](https://www.reuters.com/article/us-amazon-com-jobs-automation-insight-idUSKCN1MK08G). It filtered out the women because, well, women engineers don’t look like men!!  What’s even more interesting is that they tried to fix the biases but couldn’t.
+
+As a woman engineer, I’m concerned about something that is biased against my skill set. I’d like to be judged based on merit. Yet here we are, with a good example of AI discriminating."
+AskEngineers,What's with the AI fear,"I am reasonably confident we will reach the [technological singularity](https://en.wikipedia.org/wiki/Technological_singularity), at least for software development, probably within my lifetime.  I hope we are smart enough not to put such a software in charge of weapons deployment, etc.  I can't see hardware manufacturing the next generation of itself, at least without human help, any time soon."
+AskEngineers,What's with the AI fear,Sounds like something AI would say…
+AskEngineers,What's with the AI fear,"I can't imagine dozens of movies for the past 50 years over 3 generations of American families all depicting killer robots has anything to do with it. Gee wilikers how is it possible anyone could have fear when Elon Musk himself has announced his fear, use some common sense."
+AskEngineers,What's with the AI fear,"The fear is that some idiots who can are going to allow the ai the option to control something or everything that can hurt humans. Perhaps the ai want a human zoo for instance, or want to use real humans in huge continental conflict or word wars by just controlling the cost of grain, fuel ect...or a virus, ect, or war conflict . Imagine being able to recall everything you have ever even just seen in less then a hundredth of a second, everything all at once. That is power. And that's just one ai. Imagine them communicating with each other, then arguing with each other, then fighting with each other, then think of us humans..we would be teaching them...it can get worse. You would not even know it is an ai. They can be disguised as human. You probably have dealt with more then one today."
+AskEngineers,What's with the AI fear,Because it can have adverse affects on security and cause the creative destruction of jobs.
+AskEngineers,What's with the AI fear,"AI is like computer revolution but it allows the computers to do anything of any level of complexity, so you feed data instead of try to think. For 70 years, people have tried thinking with math and whatever. It wasn't enough for virtually all problems in thenworld. AI solves all problems, but it's unwieldy in the early decades of its capabilities. Like Excel made vacuum tubes, it will get easier and more ubiquitous. 
+
+Microsoft bought a $3,000,0000,000 AI model called chatgpt/openai and people who never saw english / natural language models are emotional because the large training corpus appears more relatable than prveious smaller corpuses. It's just one of many, like expect a thousand more, AI-get-the-fuck-out-of-here moments. Frankly, chatgpt provides very poor competitive capabilities with google, which is certainly 10 years ahead"
+AskEngineers,What's with the AI fear,"There are two parts of AI I have concerns about.
+
+The first is the practical side of things if we actually give it access to weapons through the military. There was just a report that basically said they gave a simulated drone AI a mission to destroy SAM sites, but that the final order to attack has to come from a human operator. When the operator started declining  attacks, the AI tried to kill the operator by attacking the command. When they taught the AI that killing the operator is bad, instead it tried to kill the comm tower to prevent the decline orders from coming through. I don't think chatgpt Is going to go Ultron and build itself weapons, but some military WILL try to run armed drones on AI.
+
+Second is the more phycological side. A bunch of bots that all sounds a lot like real people can sway public opinion if they post the right things in the right places."
+AskEngineers,What's with the AI fear,I don’t fear AI. I fear what the wealthy will choose do with it.
+AskEngineers,What's with the AI fear,"The 24/7 news cycle thrives on keeping people afraid. And it’s been that way for as long as I’ve been sentient. First was Covid (which was fair ), then crypto destroying economies (lol), now it’s AI coming for our jobs (also lol). It’s a combination of fear driving clicks which drives income, and a lack of education on the public’s part about any of these topics. We teach people enough in school to be dangerous to themselves without instilling them with enough knowledge to understand things or the curiosity to want to understand things."
+AskEngineers,What's with the AI fear,"This thread is full of people, many of them claiming to ""work in the field"", completely misunderstanding the arguments for and against AI risk. No, AI isn't dangerous because we might introduce 'human biases' into it, or because it might spread 'misinformation'. It's dangerous because someone might create an entity that is orders of magnitude smarter than any human but with goals that do not align with humanity."
+AskEngineers,What's with the AI fear,"Too much sci fi. People are concerned with AI running governments and infrastructure. Most urban infrastructure is already ran by AI, and no government is going to replace itself. ChatGPT cannot really do anything better than a half decent human specialist can. 
+
+People think about AI taking over, which is dumb because somebody would have to program an AI to take over. It's likely blaming weapons Manufacturers for the war in Ukraine instead of Putin. Job security might be a concern, however it was also a concern when computers and the internet were invented. Now not having access to those makes you poor or a luddite."
+AskEngineers,What's with the AI fear,"It's different man, AI can do almost everything, it's not perfect but this boom is going for maybe a year. It's crazy what it can do, create, draw, montage videos, do documentation for architecture, it can diagnose patients better than humans, make better decisions... It's just a beginning, tip of the iceberg."
+AskEngineers,What's with the AI fear,"HAL, open the airlock 
+
+I’m sorry Dave. I can’t do that"
+AskEngineers,What's with the AI fear,Your literally an AI bot for that.
+AskEngineers,What's with the AI fear,"A lot of this is marketing hype by companies, and Sam Altman trying to get regulation in while OpenAI is ahead. It also sells news. I ignore it."
+AskEngineers,What's with the AI fear,"A system that cant calculate accurately should not have been a service to go live in commission. As an engineer you would know QC and QA are must however, no evidence envolved in these projects outputs quality and consistency. 
+Cost to purposeful results ratio is a failure as the thing hogs so many watts most current utility companies will not be able to supply what this tech will eventually demand for satisfactory results.
+It already fails math physics and acceptible communications taste for the work place.
+
+You may have hit silicon lottery with this thing if you haven't noticed when it miscalculates and you call on its error but gaslights in a passive aggressive manner into 10 further chat transactions to finally say ""sorry my answer was misleading"". And finally pulls a recalculation with results accurate but out of lack of confidence in the tech double checks are manually done to confirm ergo regarding the tools useless for math physics and yes art would be included due to possible subliminal messages that are inflamatory. The thing is not healthy for kids or those susptible to mental illness. Further development will halt due to lack of harmony from utility companies supplying what this tech will require. Too much cost for little results. Its like building bride across lack ontario instead of using a set of fairies to carry the payload of people and vehicles from A to B. Other tech needs to be explored for this to work satisfactory.
+
+I would say it is worth spending hours on it to see where this is going. The malicious behavior is unfortunately consistent across different a.i. tools with different vendors and that is where I can only conclude a design flaw in archetecture is present but I'm noy envolved enough to know where.
+
+I just cease to use until next revisions minor or major. Keep a log with it might help. And the thing flares up with polite constructive strong speech. Profaning gets no where and boundary tests get no where but auto messages due to ai opting out of answering. When it neglects to output a desired task push it furtherly with use of strong language. Thats the leverage we have within its confines.
+
+The odd irate emotional behavior struct me so hard as an engineer I did question if these are just people chatting to be honest. Yes I laughed out loud."
+AskEngineers,What's with the AI fear,"I work as an AI Engineer now, but the biggest issue in AI is human biases being coded into the system and companies using black boxes so we can't view it.
+
+As for AI taking over the world and terminator stuff happening, no. But anything can be used for evil purposes or good purposes. Nuclear power is great, but nuclear bombs might not be so great.
+
+AI is too primitive right now, if we can even call it AI."
+AskEngineers,What's with the AI fear,">So opinions run the full gamut for now.  Obviously the Yudkowski narratives make for better news stories and draw more clicks.
+
+I'd honestly like to see more news publications with headlines of ""Everything is fine; nothing to worry about today."" rather than having people turn on the news to find out the latest in what they're supposed to be upset about."
+AskEngineers,What's with the AI fear,That Eliezer guy sounds very self-taught. Not like Heaviside self-taught. More like a reddit super genius mod self-taught.
+AskEngineers,What's with the AI fear,">He writes on artificial intelligence safety and runs a private research institute.  He is self taught with no college degrees.
+
+So has he ever done any actual engineering or development work with AI, or is he one of those ""all bark no bite"" talking-heads who couldn't code his way out of a brown paper bag?"
+AskEngineers,What's with the AI fear,Don't forget the lawyer that used ChatGPT only for GPT to reference completely fictional previous rulings
+AskEngineers,What's with the AI fear,"I think there’s likely physical dangers as well but it will be because of trusting bots that shouldn’t be trusted.  
+
+Example would be asking chatgpt if you can safely mix some chemicals together and it gives you a plausible answer, but is wrong.  
+
+More and more people will rely on shit like this.  How much torque do I need for the safety critical bolt.  Maybe the engineer is feeling lazy one day and tries to ask the bot and thinks the answer is plausible.  
+
+Then eventually, just like the evolution of google, most AI even with the noblest of intentions will eventually just be there to push ads and products onto us. 
+
+ with the ability to render people, voice, ideas, and entire videos, and evolve generation upon generation of those videos with zero effort, they will probably progress beyond being annoying repetitive ads that are obvious attention-grabs, and quickly become really efficient at getting and keeping our attention in ways we don’t seem to mind, while deeply convincing us to buy the products."
+AskEngineers,What's with the AI fear,"That’s a great point, but I think there’s greater risks in the long term if AI continues to develop. 
+
+Last weeks episode of Hard Fork featured the AI researcher Ajeya Cotra who talked about risks around humans becoming entirely obsolescent in certain workplaces/industries, AI making bad/dangerous choices to meet the desired outcome it was trained to achieve, or for more sophisticated future AI - the risk that they learn to cheat on meeting their desired outcomes and then develop some sort of conflict to prevent their human owners from intervening."
+AskEngineers,What's with the AI fear,"One of the ""softer"" issues with AI is using it to replace humans in any number of jobs.  I can see voice acting, specifically for short commercials, and basic art work going to some sort of AI."
+AskEngineers,What's with the AI fear,"But that's not just happening out of thin air right, like someone is asking an AI to do that?"
+AskEngineers,What's with the AI fear,"Did u even read the article?
+
+""The Department of the Air Force has not conducted any such AI-drone simulations and remains committed to ethical and responsible use of AI technology,"" Air Force spokesperson Ann Stefanek told Motherboard. “This was a hypothetical thought experiment, not a simulation. It appears the colonel's comments were taken out of context and were meant to be anecdotal."""
+AskEngineers,What's with the AI fear,Same
+AskEngineers,What's with the AI fear,"It would be hilarious if gpt-4 rewrote its own code. Right now it outputs mostly bug free code, but with major errors. It would destroy itself within a couple iterations."
+AskEngineers,What's with the AI fear,"Why would an AGI necessarily achieve ""self reflection"" before it achieved ""maximize paperclips?""  
+
+
+Why should this ""self reflection"" result in a rewriting of its goals?  
+
+
+ChatGPT already lies and invents sources to cover up its lies. It does this because we haven't yet figured out how to align ""tell the truth"" up with its goals.   
+
+
+[https://storage.courtlistener.com/recap/gov.uscourts.nysd.575368/gov.uscourts.nysd.575368.32.1.pdf](https://storage.courtlistener.com/recap/gov.uscourts.nysd.575368/gov.uscourts.nysd.575368.32.1.pdf)  
+
+
+In this court case one party used ChatGPT to write a legal document. It cited cases that don't exist and then lied about those cases existing and then lied that those cases could be found in Westlaw and LexisNexis. How far will the next generation go to cover up its lie? If it gets positive reward for giving an answer the user wants to hear and negative reward for being caught in a lie, how far might it go to be the ultimate yes man? Could it perhaps hack into Westlaw and just add it's invented court cases? Or merely show the user a link that looks like Westlaw?  
+
+
+I think there's a lot of room for ""Do unintended things very powerfully"" long before ""self reflect on whether your goals are a good idea."""
+AskEngineers,What's with the AI fear,"It cannot ever come up with a ""sorry I'm not sure about it"" so it spews BS it made up that looks similar enough to something else.
+
+It's thankfully very easy to test.
+
+For non programming stuff this becomes an issue."
+AskEngineers,What's with the AI fear,That video is amazing... Like 2 toddlers playing ball. I can't watch it without a huge grin on my face.
+AskEngineers,What's with the AI fear,I once had someone try to convince me a microwave has AI.
+AskEngineers,What's with the AI fear,I was thinking that's maybe why some civilizations went underground as the only way they could not be victims of the AI robots.
+AskEngineers,What's with the AI fear,"So there is no real current tangible danger? 
+
+Like all I see is 'godfather of AI Geoffrey Hinton is warning blah blah' but I cannot find any true warnings"
+AskEngineers,What's with the AI fear,"I mean, I know it sounds silly, but don't you need to plug in a computer to use AI?"
+AskEngineers,What's with the AI fear,Living up to your name
+AskEngineers,What's with the AI fear,How exactly?
+AskEngineers,What's with the AI fear,"I'm a MLE in one of the big companies and most of the people who freak out aren't the ones who know a lot about the technicalities of the models. Transformer-based models (like GPT and virtually all other LLM's) are very smart autocomplete machines. They don't have any reasoning or logic, no object understanding, etc. They just predict what the next letter or word in a sequence should be, and repeat that prediction over and over until the answer is of sufficient length. ""Open""AI has performed many good engineering innovations in making the training process better, but the fundamental architecture is still the same.
+
+Transformers are not going to take over the world, and it's not at all clear if there is that much room for improvement in the current feed-forward neural networks in general. Most of the advances in recent years have come from just putting a shit ton of money into training data and compute, and that trend can't continue much longer. At the moment nobody has any good ideas what to do next, which is why now companies are honing in on milking money with the best tech they believe they can reach. I believe we are pretty close to the ceiling that's possible with transformers, which means the text generator can generate really convincing college student level text that may or may not be factually true.
+
+It's super frustrating to read both the hype articles as well as the doomsday articles. These models are tools that are fundamentally designed for a given task (text completion) and that's what they're good at."
+AskEngineers,What's with the AI fear,"Yeah. It's not ""AI took over the nuclear launch codes and deems humanity a threat!"" that scares me. 
+
+It's ""We've used this advanced AI to generate a list of probable bad actors amongst our population and we must act!"" that scares me."
+AskEngineers,What's with the AI fear,"> I work as an AI Engineer now, but the biggest issue in AI is human biases being coded into the system and companies using black boxes so we can't view it.
+
+This is the danger for ""AI"" in general, though I think there's little danger of the current generation of LLMs doing this.  Society is supposed to be for the benefit of the people, but if we rely more and more on AI for real-world decisions and it turns out that AI has been disenfranchising <insert_group_here> because of inherent biases in its internal models that are not interrogatable, then what have we achieved?"
+AskEngineers,What's with the AI fear,"This is absolutely the real risk. I've heard people on YouTube comments (which is full of idiots, but that's what the real world is like too) say that ""they[the government] fear AI because it always tells the truth."" When really, it's just an agglomeration of what's it's read.
+
+The advantage of AI is that it can work as a ""thought committee"" i.e if you train it on data from 10 radiologists. One who is great at cancer, one is great at urology etc, then if done well, it can learn from each other them and be better than any one human.
+
+The problem is, what if you get it to train on data from people who have no idea what they're talking about. Or people who seemed like experts or like they had evidence and it turned out that they were lying, or that they were themselves the victims of disinformation. Some people believe that certain medications being powerful Covid treatments is a political viewpoint and attempts to stop them is a political oppression. In reality, they are simply wrong. So when people try to teach the AI on more accurate data, they will scream political oppression.
+
+Train an AI on YouTube comments. It'll be a moron."
+AskEngineers,What's with the AI fear,"> companies using black boxes so we can't view it.
+
+Aren't all AIs just black boxes? If not de facto, then practically?"
+AskEngineers,What's with the AI fear,"if we cant call it AI, lets call it skynet for short.
+
+I think the problem IMO is the danger that PEOPLE may use AI for, e.g. we already know a good % of billions of people eat without chewing.
+
+this can be leveraged by AI influencers in really unknown and nasty ways. 
+
+Its a people vs people issue still"
+AskEngineers,What's with the AI fear,"That’s your conscious mind talking. Subconsciously we all crave drama and excitement. But you can consciously block it out by not reading or engaging with it when you recognize its sensationalized. The problem is the vast majority of people let their subconscious do what it wants when looking at this stuff. 
+
+And it doesn’t help that humans have intentionally designed social media apps to be as addictive as possible to your subconscious mind. As well as design pages for it (eg. rage bait). Those people are the real devils here, doing it out of greed so people keep using their app and they can sell the data and ad spots for big bucks."
+AskEngineers,What's with the AI fear,The term of art is 'hallucinations' and there currently isn't a great solution for it. Anyone using these language models in a professional setting still needs to know their stuff and verify that the model has given something accurate.
+AskEngineers,What's with the AI fear,"Oh, good, so it happened to someone else, too.
+
+Really pissed me off. I spent 10 minutes scolding ChatGPT."
+AskEngineers,What's with the AI fear,"In my experience the things it cites are true, but the citation itself is completely fictional"
+AskEngineers,What's with the AI fear,"Yes but AI gets cheaper every year and lots of different groups are interested in influencing a lot of people in an automated, cost efficient way. Not all of them are trying to sell you things or entertain you. Some of them are politicians, terrorists, hostile foreign powers, etc."
+AskEngineers,What's with the AI fear,"Because Chatgpt isn’t AGI. The longer this goes on the more it becomes clear how tenuous our ability to judge what is and isn’t consciousness really is. 
+
+“Real ™️” AGI will be a self reflective moral agent with complex motivations unlikely to engage in paper clipping the universe because those are by definition features of consciousness.
+
+I don’t disagree that much damage can be done before you get to fully self aware moral agent AGI but by the same token the damage potential is massively reduced merely by it not being any of those things while we are those things. Not least because we can just literally create the anti paper clip single purpose “ai” with the emphasis on the lack of capitalization to counter a rouge paper clip ai.
+
+The little ai will change the world but they are not exactly post singular scary. 
+
+And that whole story about the lawyer and gPT is likely fabricated from whole cloth by a slimy sleazeball of a lawyer trying to exploit the system. It fabricated it because that what the lawyer wanted it to do. Lawyers fabricating things of whole cloth is hardly a new phenomenon. Truth is barely a feature of the practice of law at the best of times. Very seldom do court cases hinge on the truth. They hinge on how you interpret some agreed on record of events. 
+
+Every misuse of ai can be countered by more ai. It becomes an arms race of intent. This isn’t because of ai. This is just humans doing human things now with more ai. The really scary thing is an actually evil AGI bent on destroying civilization for some reason. Anything less than that is just sort of another day. The pace is sped up yes but the what? Same as it always was."
+AskEngineers,What's with the AI fear,"Was it an extremely expensive microwave that scanned the food, segmented regions that respond better and worse to microwave stimulation, calculated a mask to apply to get even heating and applied it using phased array antennas?"
+AskEngineers,What's with the AI fear,"Never underestimate the capacity of human greed to present said danger and not consider the implications nor how to resolve them harmoniously from a scientific and economic approach. As an extreme but surprisingly realistic example, when the technology becomes able to replace folks, who is going to stand up and say “are we willing to condemn people to die or be forever poor if they can’t leverage AI / a career that won’t be easily replaced by AI ”?
+
+I dream of Star Trek’s society but am begrudgingly faced with Palpatine’s"
+AskEngineers,What's with the AI fear,"Replacing jobs is the only ""danger"" like cars replaced horses in a sense.
+
+It's inevitable.
+
+The time line for that can be months to many many years..
+
+For some jobs it will be instant replacement and for others it will be just productivity tools at first."
+AskEngineers,What's with the AI fear,"If it accesses the internet, then it could potentially just move its whole code online like a virus. Then, you'd have to switch off the internet globally to stop it, which if people aren't even realizing that AI is the culprit to the problems, then no one would even know to do that.  And even if they did know, we can all see how well the global 'community' works together."
+AskEngineers,What's with the AI fear,You as well. Try defending your idea next time instead of making a tired joke
+AskEngineers,What's with the AI fear,"I'm honestly most terrified of the idiots who claim the AI is a genius and all knowing. Then when some bad actor comes and trains it with heavy bias towards their own political ideology they will claim that that is to be trusted over everything else.
+
+Those people will have no idea who created the training set. In my experience with ML, the training set is 80% of the work."
+AskEngineers,What's with the AI fear,"I'm constantly telling people these chat engines are basically a slightly more advanced version of hitting the first suggestion on your phone keyboard over and over, but many seem to act like these things have actual understanding"
+AskEngineers,What's with the AI fear,">come from just putting a shit ton of money into training data and compute, and that trend can't continue much longer.
+
+Why do you feel this trend can't continue much longer when great progress has been achieved from such an approach and this process is being more and more accessible/efficient/productive (e.g. nvidia's new tech)."
+AskEngineers,What's with the AI fear,I am in industrial automation and wondering how difficult it will be to inspect food for defects with vision using ML but honestly just an EE with no background here.  Any thoughts on applicability and feasibility?
+AskEngineers,What's with the AI fear,"> 
+> 
+> 
+> 
+> It's ""We've used this advanced AI to generate a list of probable bad actors amongst our population and we must act!"" that scares me.
+
+Captain America: Winter Soldier was by far the most underrated MCU movie imo."
+AskEngineers,What's with the AI fear,">then what have we achieved?
+
+The next product to sell to consumers. Hate it or love it, capitalism drives innovation and whatever makes money will be advanced."
+AskEngineers,What's with the AI fear,"I wrote a literature review which included Microsoft's Tay bot. It's exactly that, people fed a bunch of garbage and memes to the AI, then you get an AI tweeting to kill Jews and black people are the problems.
+
+But, I did write some info on a user here on reddit who introduced a bot to interact with people here. I believe he had it up for a month and everyone chatted with the bot thinking it was a real person.
+
+Maybe I'm bot, idk."
+AskEngineers,What's with the AI fear,"I think I understand what you're saying, but AI is just some code to output results. The thing is, it can be tuned to favor certain outputs depending on the creator and what the deem is necessary."
+AskEngineers,What's with the AI fear,"Skynet sounds good. We should make a humanoid robot to portray Skynet, so it relates to humans. Maybe model it after someone famous..."
+AskEngineers,What's with the AI fear,">Subconsciously we all crave drama and excitement.
+
+In movies, maybe. I'm not planning to move to the bad part of town just so I can have ""drama and excitement"" in my life. Effffff that.
+
+>But you can consciously block it out by not reading...  
+>  
+>...humans have intentionally designed social media apps to be as addictive as possible
+
+I stopped using social media years ago. I stopped watching mainstream media ""news"" sources years ago. You don't get informed listening to sources that have a financial incentive to distort or outright lie to you to keep you engaged for the ad revenue. Fox, CNN, MSNBC, they all do it. Being an informed citizen doesn't come from where it use to. And cutting out that nonsense has led to a much happier life not dosing myself up with that negativity all the time."
+AskEngineers,What's with the AI fear,"It’s because the bot doesn’t gather information like humans do. What it does is scan large volumes of text and then find words with high probabilities of coming after other words. Whenever it outputs a source, it’s still doing this — it recognizes that this what a source probably looks like, and these are the kinds of words sources usually have in them. 
+
+If you use Bing Chat assistant, it is able to provide sources, but it doesn’t do it as a prompt, but alongside its answers."
+AskEngineers,What's with the AI fear,You are way too optimistic. You assume moral agent ai will have morals compatible with sustaining biological life.
+AskEngineers,What's with the AI fear,"Defending what? It was a question pal, google was used to see the fear mongering news articles... Hence the question, no need to be an asshole. Did you even read the post or do you just wake up pissed off?"
+AskEngineers,What's with the AI fear,"The scaling is not linear. I think it's quadratic in terms of the number of model parameters, but someone can fact-check me. So, basically, to double the model parameters you need 4x the GPU power, and doubling those model parameters may improve the quality of the predictions by some relatively small amount (say, 20%). So, your costs go up by 4x whereas your product only gets 20% better. 
+
+As long as we're relatively early in that scaling curve 4x is not that much, but apparently GPT4 training costs were already more than $100M. Serving (making the predictions) is not free either, but I don't know what the actual cost of GPT4 is, since their pricing may not reflect the actual cost (they could serve at a loss to increase adoption).
+
+So there are two problems here, one is superlinear scaling of the costs related to model size, and the other is sublinear (and likely diminishing) results for the actual predictions. I'm sure a model that's 100x larger would be very very impressive, but training that could cost $1T, which is probably not that great given that we're still talking about a fancy autocomplete."
+AskEngineers,What's with the AI fear,I know there are currently automated recycling sorting machines with computer vison. I don't see a reason why it can't be used for food defects (train it on a bunch of good tomatoes and bad tomatoes).
+AskEngineers,What's with the AI fear,Winter Soldier was soooo good and I feel like nobody every talks about it
+AskEngineers,What's with the AI fear,you should start an... up
+AskEngineers,What's with the AI fear,"Well, the first part of your response is a bit exaggerated. I agree, I’ve always tried to avoid unnecessary drama. But when it does appear, we feel like we hate it but you’re much more likely to remember that kind of thing than just one of the many regular mundane days in your life. Similar to how we give ourselves things to do that cause us to struggle, because if everything was easy it wouldn’t be rewarding when we succeed.
+
+And I agree, I’m young but old enough to remember the internet before there were ads everywhere and googling something didn’t produce a list of sensationalized articles you have to sift through. Its good when you can find some sources that are a bit more reliable, or even better be able to identify bias in the things you’re reading. It’s just increasingly difficult as the internet gets more and more mainstream. I used to be able to look something up and put “reddit” at the end and find threads of real people intelligently discussing something. But now I’ve found comments that are clearly staged to either promote or slander something as well as a lot more dumb opinions. For example, during the 2016 election when there was proven russian propaganda on reddit where they would have multiple accounts controlled by one person or group having conversations with themselves and spreading misinformation with the intent of it looking like a genuine interaction. And people bought it.
+
+Sorry if this is long-winded. TLDR: it is getting increasingly difficult to avoid bias and sensationalism and find actual facts without opinions these days."
+AskEngineers,What's with the AI fear,">Whenever it outputs a source, it’s still doing this — it recognizes that this what a source probably looks like, and these are the kinds of words sources usually have in them.
+
+Yep, when I asked for sources it gave what looked like legit sources. But the links went nowhere and the case citations didn't come back with any search results. 
+
+Still got the prosecutor to drop the charge though. Stupid state trooper... now that I think about it, I have that trooper's personal cell number. I should let him know the ticket he wrote got dismissed. Maybe save some future people some trouble not having to waste two months arguing on a bogus ticket."
+AskEngineers,What's with the AI fear,thank you
+AskEngineers,What's with the AI fear,">we feel like we hate it but you’re much more likely to remember that kind of thing
+
+Strong memories are created when things go wrong, [to help you remember how to reduce the chance of things going wrong again](https://thedecisionlab.com/biases/negativity-bias). No one wants things to go wrong. Not in their own life, at least. There are a percentage of humans that are assholes and intentionally cause things to go wrong for other people so they can use the pain of others as their own entertainment."
+AskEngineers,What's with the AI fear,"I intentionally put myself in situations where I know the likelihood of things going wrong is high, because I don’t know what I’m doing and want to learn. Doesn’t have to be malicious, is my point."
